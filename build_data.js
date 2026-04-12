@@ -36,7 +36,7 @@ const CATEGORIES = {
 
   'Entenvögel': [
     'Stockente', 'Stockenten',
-    'Krickente', 'Krickente und Löffelente',
+    'Krickente', 
     'Pfeifente', 'Knäckente', 'Löffelente',
     'Reiherente', 'Tafelente', 'Eiderente',
     'Brandgans', 'Gans',
@@ -66,8 +66,8 @@ const CATEGORIES = {
 
   'Marderartige': [
     'Steinmarder', 'Baummarder', 'Iltis', 'Mauswiesel',
-    'Hermelin (Großes Wiesel)', 'Hermelin (Sommerfell)', 'Hermelin (Winterfell)',
-    'Großes Mauswiesel (Hermelin) Winter', 'Großes Mauswiesel Sommer',
+    'Hermelin (Großes Mauswiesel)', 
+    'Großes Wiesel (Hermelin) Winter', 'Großes Wiesel (Hermelin) Sommer',
   ],
 
   'Hasenartige': [
@@ -84,7 +84,7 @@ const CATEGORIES = {
   ],
 
   'Schwarzwild': [
-    'Frischling',
+    'Frischling', 'Überläufer'
   ],
 };
 
