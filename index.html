@@ -1,0 +1,314 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Praep - Lernapp</title>
+<style>
+  *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+    background: #f0f2f5;
+    color: #1a1a1a;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  header {
+    width: 100%;
+    background: #2c5f2d;
+    color: #fff;
+    padding: 1rem 1.5rem;
+    text-align: center;
+  }
+
+  header h1 { font-size: 1.5rem; }
+
+  .controls {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+    justify-content: center;
+    padding: 1rem;
+    max-width: 700px;
+    width: 100%;
+  }
+
+  .controls select, .controls button {
+    padding: 0.5rem 1rem;
+    font-size: 1rem;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+    background: #fff;
+    cursor: pointer;
+  }
+
+  .controls button.active {
+    background: #2c5f2d;
+    color: #fff;
+    border-color: #2c5f2d;
+  }
+
+  .card {
+    background: #fff;
+    border-radius: 12px;
+    box-shadow: 0 2px 12px rgba(0,0,0,0.1);
+    max-width: 600px;
+    width: 90%;
+    margin: 1rem auto;
+    overflow: hidden;
+    text-align: center;
+  }
+
+  .card img {
+    width: 100%;
+    max-height: 420px;
+    object-fit: contain;
+    background: #fafafa;
+  }
+
+  .card-body { padding: 1.2rem; }
+
+  .choices {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 0.6rem;
+    margin-top: 0.8rem;
+  }
+
+  .choices button {
+    padding: 0.7rem;
+    font-size: 1rem;
+    border: 2px solid #ddd;
+    border-radius: 8px;
+    background: #fff;
+    cursor: pointer;
+    transition: background 0.15s, border-color 0.15s;
+  }
+
+  .choices button:hover { border-color: #2c5f2d; }
+  .choices button.correct { background: #d4edda; border-color: #28a745; }
+  .choices button.wrong { background: #f8d7da; border-color: #dc3545; }
+
+  .reveal-btn, .next-btn {
+    margin-top: 1rem;
+    padding: 0.7rem 2rem;
+    font-size: 1.1rem;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    background: #2c5f2d;
+    color: #fff;
+  }
+
+  .answer-text {
+    margin-top: 0.8rem;
+    font-size: 1.4rem;
+    font-weight: 600;
+    color: #2c5f2d;
+  }
+
+  .score {
+    padding: 0.5rem 1rem;
+    font-size: 0.95rem;
+    color: #555;
+  }
+
+  .gender-badge {
+    margin-left: 0.3rem;
+    cursor: help;
+  }
+
+  .wiki-link {
+    margin-left: 0.4rem;
+    opacity: 0.45;
+    transition: opacity 0.15s;
+    vertical-align: middle;
+    text-decoration: none;
+  }
+  .wiki-link:hover { opacity: 1; }
+  .wiki-link img { width: 16px; height: 16px; vertical-align: middle; }
+
+  .hidden { display: none !important; }
+</style>
+</head>
+<body>
+
+<header>
+  <h1>Praep - Lernapp</h1>
+</header>
+
+<div class="controls">
+  <select id="locationSelect"><option value="">Standort wählen...</option></select>
+  <button id="modeQuiz" class="active">Multiple Choice</button>
+  <button id="modeFlash">Karteikarte</button>
+</div>
+
+<div class="score" id="score"></div>
+
+<div class="card hidden" id="card">
+  <img id="cardImg" src="" alt="Präparat">
+  <div class="card-body" id="cardBody"></div>
+</div>
+
+<script>
+(async () => {
+  const res = await fetch('data.json');
+  const allData = await res.json();
+
+  const locationSelect = document.getElementById('locationSelect');
+  const modeQuiz = document.getElementById('modeQuiz');
+  const modeFlash = document.getElementById('modeFlash');
+  const card = document.getElementById('card');
+  const cardImg = document.getElementById('cardImg');
+  const cardBody = document.getElementById('cardBody');
+  const scoreEl = document.getElementById('score');
+
+  let mode = 'quiz'; // 'quiz' | 'flash'
+  let filtered = [];
+  let current = null;
+  let stats = { correct: 0, total: 0 };
+
+  // Build location dropdown
+  const locations = [...new Set(allData.map(d => d.location))].sort();
+  locations.forEach(loc => {
+    const opt = document.createElement('option');
+    opt.value = loc;
+    opt.textContent = loc.charAt(0).toUpperCase() + loc.slice(1);
+    locationSelect.appendChild(opt);
+  });
+
+  function shuffle(arr) {
+    const a = [...arr];
+    for (let i = a.length - 1; i > 0; i--) {
+      const j = Math.floor(Math.random() * (i + 1));
+      [a[i], a[j]] = [a[j], a[i]];
+    }
+    return a;
+  }
+
+  function uniqueNames() {
+    return [...new Set(filtered.map(d => d.name))];
+  }
+
+  function pickRandom() {
+    return filtered[Math.floor(Math.random() * filtered.length)];
+  }
+
+  function genderBadge(entry) {
+    if (!entry.gender) return '';
+    const emoji = entry.gender === 'm' ? '\u2642' : entry.gender === 'w' ? '\u2640' : '\u2642\u2640';
+    return ` <span class="gender-badge" title="${entry.genderText}">${emoji}</span>`;
+  }
+
+  function wikiLink(entry) {
+    if (!entry.wikiUrl) return '';
+    return ` <a class="wiki-link" href="${entry.wikiUrl}" target="_blank" rel="noopener noreferrer" title="Wikipedia"><img src="https://de.wikipedia.org/favicon.ico" alt="W"></a>`;
+  }
+
+  function revealHtml(entry) {
+    return entry.name + genderBadge(entry) + wikiLink(entry);
+  }
+
+  function updateScore() {
+    if (stats.total === 0) { scoreEl.textContent = ''; return; }
+    scoreEl.textContent = `Richtig: ${stats.correct} / ${stats.total}`;
+  }
+
+  function showQuiz() {
+    current = pickRandom();
+    cardImg.src = current.path;
+    const wrongs = current.distractors || shuffle(uniqueNames().filter(n => n !== current.name)).slice(0, 3);
+    const choices = shuffle([current.name, ...wrongs]);
+
+    cardBody.innerHTML = '';
+    const div = document.createElement('div');
+    div.className = 'choices';
+    choices.forEach(name => {
+      const btn = document.createElement('button');
+      btn.textContent = name;
+      btn.addEventListener('click', () => {
+        stats.total++;
+        if (name === current.name) {
+          stats.correct++;
+          btn.classList.add('correct');
+          btn.innerHTML = revealHtml(current);
+        } else {
+          btn.classList.add('wrong');
+          div.querySelectorAll('button').forEach(b => {
+            if (b.textContent === current.name) {
+              b.classList.add('correct');
+              b.innerHTML = revealHtml(current);
+            }
+          });
+        }
+        div.querySelectorAll('button').forEach(b => b.disabled = true);
+        updateScore();
+        const next = document.createElement('button');
+        next.className = 'next-btn';
+        next.textContent = 'Weiter';
+        next.addEventListener('click', showQuiz);
+        cardBody.appendChild(next);
+      });
+      div.appendChild(btn);
+    });
+    cardBody.appendChild(div);
+    card.classList.remove('hidden');
+  }
+
+  function showFlash() {
+    current = pickRandom();
+    cardImg.src = current.path;
+    cardBody.innerHTML = '';
+    const btn = document.createElement('button');
+    btn.className = 'reveal-btn';
+    btn.textContent = 'Antwort zeigen';
+    btn.addEventListener('click', () => {
+      btn.classList.add('hidden');
+      const ans = document.createElement('div');
+      ans.className = 'answer-text';
+      ans.innerHTML = revealHtml(current);
+      cardBody.appendChild(ans);
+      const next = document.createElement('button');
+      next.className = 'next-btn';
+      next.textContent = 'Weiter';
+      next.addEventListener('click', showFlash);
+      cardBody.appendChild(next);
+    });
+    cardBody.appendChild(btn);
+    card.classList.remove('hidden');
+  }
+
+  function startRound() {
+    const loc = locationSelect.value;
+    if (!loc) { card.classList.add('hidden'); return; }
+    filtered = allData.filter(d => d.location === loc);
+    if (filtered.length === 0) { card.classList.add('hidden'); return; }
+    stats = { correct: 0, total: 0 };
+    updateScore();
+    if (mode === 'quiz') showQuiz(); else showFlash();
+  }
+
+  locationSelect.addEventListener('change', startRound);
+
+  modeQuiz.addEventListener('click', () => {
+    mode = 'quiz';
+    modeQuiz.classList.add('active');
+    modeFlash.classList.remove('active');
+    startRound();
+  });
+
+  modeFlash.addEventListener('click', () => {
+    mode = 'flash';
+    modeFlash.classList.add('active');
+    modeQuiz.classList.remove('active');
+    startRound();
+  });
+})();
+</script>
+
+</body>
+</html>

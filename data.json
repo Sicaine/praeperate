@@ -1,0 +1,2676 @@
+[
+  {
+    "path": "img/ebersberg/Auerhahn.jpg",
+    "location": "ebersberg",
+    "name": "Auerhahn",
+    "gender": null,
+    "genderText": null,
+    "category": "Hühnervögel",
+    "distractors": [
+      "Birkhahn",
+      "Wachtel",
+      "Schneehuhn"
+    ],
+    "wikiUrl": "https://de.wikipedia.org/wiki/Auerhahn"
+  },
+  {
+    "path": "img/ebersberg/Auerhahn_1.jpg",
+    "location": "ebersberg",
+    "name": "Auerhahn",
+    "gender": null,
+    "genderText": null,
+    "category": "Hühnervögel",
+    "distractors": [
+      "Steinhuhn",
+      "Wachtel",
+      "Schneehuhn"
+    ],
+    "wikiUrl": "https://de.wikipedia.org/wiki/Auerhahn"
+  },
+  {
+    "path": "img/ebersberg/Baumfalke.jpg",
+    "location": "ebersberg",
+    "name": "Baumfalke",
+    "gender": null,
+    "genderText": null,
+    "category": "Greifvögel",
+    "distractors": [
+      "Steinadler",
+      "Sperber",
+      "Schwarzmilan"
+    ],
+    "wikiUrl": "https://de.wikipedia.org/wiki/Baumfalke"
+  },
+  {
+    "path": "img/ebersberg/Baummarder.jpg",
+    "location": "ebersberg",
+    "name": "Baummarder",
+    "gender": null,
+    "genderText": null,
+    "category": "Marderartige",
+    "distractors": [
+      "Hermelin (Winterfell)",
+      "Hermelin (Großes Wiesel)",
+      "Steinmarder"
+    ],
+    "wikiUrl": "https://de.wikipedia.org/wiki/Baummarder"
+  },
+  {
+    "path": "img/ebersberg/Bekassine.jpg",
+    "location": "ebersberg",
+    "name": "Bekassine",
+    "gender": null,
+    "genderText": null,
+    "category": "Watvögel",
+    "distractors": [
+      "Großer Brachvogel",
+      "Waldschnepfe",
+      "Kiebitz"
+    ],
+    "wikiUrl": "https://de.wikipedia.org/wiki/Bekassine"
+  },
+  {
+    "path": "img/ebersberg/Birkhahn.jpg",
+    "location": "ebersberg",
+    "name": "Birkhahn",
+    "gender": null,
+    "genderText": null,
+    "category": "Hühnervögel",
+    "distractors": [
+      "Rebhuhn",
+      "Fasan",
+      "Steinhuhn"
+    ],
+    "wikiUrl": "https://de.wikipedia.org/wiki/Birkhahn"
+  },
+  {
+    "path": "img/ebersberg/Blässhuhn.jpg",
+    "location": "ebersberg",
+    "name": "Blässhuhn",
+    "gender": null,
+    "genderText": null,
+    "category": "Wasservögel",
+    "distractors": [
+      "Grünfüßiges Teichhuhn",
+      "Lachmöwe",
+      "Graureiher"
+    ],
+    "wikiUrl": "https://de.wikipedia.org/wiki/Bl%C3%A4sshuhn"
+  },
+  {
+    "path": "img/ebersberg/Buntspecht.jpg",
+    "location": "ebersberg",
+    "name": "Buntspecht",
+    "gender": null,
+    "genderText": null,
+    "category": "Spechte",
+    "distractors": [
+      "Grünspecht",
+      "Schwarzspecht",
+      "Grauspecht"
+    ],
+    "wikiUrl": "https://de.wikipedia.org/wiki/Buntspecht"
+  },
+  {
+    "path": "img/ebersberg/Dachs.jpg",
+    "location": "ebersberg",
+    "name": "Dachs",
+    "gender": null,
+    "genderText": null,
+    "category": "Raubwild",
+    "distractors": [
+      "Buntspecht",
+      "Rabenkrähe",
+      "Fasan"
+    ],
+    "wikiUrl": "https://de.wikipedia.org/wiki/Dachs"
+  },
+  {
+    "path": "img/ebersberg/Dachs_1.jpg",
+    "location": "ebersberg",
+    "name": "Dachs",
+    "gender": null,
+    "genderText": null,
+    "category": "Raubwild",
+    "distractors": [
+      "Habicht",
+      "Rotmilan",
+      "Gänsesäger"
+    ],
+    "wikiUrl": "https://de.wikipedia.org/wiki/Dachs"
+  },
+  {
+    "path": "img/ebersberg/Dohle.jpg",
+    "location": "ebersberg",
+    "name": "Dohle",
+    "gender": null,
+    "genderText": null,
+    "category": "Rabenvögel",
+    "distractors": [
+      "Elster",
+      "Eichelhäher",
+      "Nebelkrähe"
+    ],
+    "wikiUrl": "https://de.wikipedia.org/wiki/Dohle"
+  },
+  {
+    "path": "img/ebersberg/Eichelhäher.jpg",
+    "location": "ebersberg",
+    "name": "Eichelhäher",
+    "gender": null,
+    "genderText": null,
+    "category": "Rabenvögel",
+    "distractors": [
+      "Dohle",
+      "Tannenhäher",
+      "Nebelkrähe"
+    ],
+    "wikiUrl": "https://de.wikipedia.org/wiki/Eichelh%C3%A4her"
+  },
+  {
+    "path": "img/ebersberg/Eichelhäher_1.jpg",
+    "location": "ebersberg",
+    "name": "Eichelhäher",
+    "gender": null,
+    "genderText": null,
+    "category": "Rabenvögel",
+    "distractors": [
+      "Rabenkrähe",
+      "Nebelkrähe",
+      "Saatkrähe"
+    ],
+    "wikiUrl": "https://de.wikipedia.org/wiki/Eichelh%C3%A4her"
+  },
+  {
+    "path": "img/ebersberg/Eichelhäher_2.jpg",
+    "location": "ebersberg",
+    "name": "Eichelhäher",
+    "gender": null,
+    "genderText": null,
+    "category": "Rabenvögel",
+    "distractors": [
+      "Rabenkrähe",
+      "Saatkrähe",
+      "Tannenhäher"
+    ],
+    "wikiUrl": "https://de.wikipedia.org/wiki/Eichelh%C3%A4her"
+  },
+  {
+    "path": "img/ebersberg/Eichhörnchen.jpg",
+    "location": "ebersberg",
+    "name": "Eichhörnchen",
+    "gender": null,
+    "genderText": null,
+    "category": "Nagetiere und Insektenfresser",
+    "distractors": [
+      "Murmeltier",
+      "Spitzmaus",
+      "Biber"
+    ],
+    "wikiUrl": "https://de.wikipedia.org/wiki/Eichh%C3%B6rnchen"
+  },
+  {
+    "path": "img/ebersberg/Eisvogel.jpg",
+    "location": "ebersberg",
+    "name": "Eisvogel",
+    "gender": null,
+    "genderText": null,
+    "category": "Singvögel",
+    "distractors": [
+      "Singdrossel",
+      "Wacholderdrossel",
+      "Kuckuck"
+    ],
+    "wikiUrl": "https://de.wikipedia.org/wiki/Eisvogel"
+  },
+  {
+    "path": "img/ebersberg/Eisvogel_1.jpg",
+    "location": "ebersberg",
+    "name": "Eisvogel",
+    "gender": null,
+    "genderText": null,
+    "category": "Singvögel",
+    "distractors": [
+      "Wiedehopf",
+      "Amsel",
+      "Raubwürger"
+    ],
+    "wikiUrl": "https://de.wikipedia.org/wiki/Eisvogel"
+  },
+  {
+    "path": "img/ebersberg/Fasan (Hahn).jpg",
+    "location": "ebersberg",
+    "name": "Fasan",
+    "gender": "m",
+    "genderText": "männlich (Hahn)",
+    "category": "Hühnervögel",
+    "distractors": [
+      "Steinhuhn",
+      "Haselhuhn",
+      "Schneehuhn"
+    ],
+    "wikiUrl": "https://de.wikipedia.org/wiki/Fasan"
+  },
+  {
+    "path": "img/ebersberg/Grauspecht.jpg",
+    "location": "ebersberg",
+    "name": "Grauspecht",
+    "gender": null,
+    "genderText": null,
+    "category": "Spechte",
+    "distractors": [
+      "Grünspecht",
+      "Buntspecht",
+      "Schwarzspecht"
+    ],
+    "wikiUrl": "https://de.wikipedia.org/wiki/Grauspecht"
+  },
+  {
+    "path": "img/ebersberg/Grünspecht.jpg",
+    "location": "ebersberg",
+    "name": "Grünspecht",
+    "gender": null,
+    "genderText": null,
+    "category": "Spechte",
+    "distractors": [
+      "Schwarzspecht",
+      "Buntspecht",
+      "Grauspecht"
+    ],
+    "wikiUrl": "https://de.wikipedia.org/wiki/Gr%C3%BCnspecht"
+  },
+  {
+    "path": "img/ebersberg/Habicht.jpg",
+    "location": "ebersberg",
+    "name": "Habicht",
+    "gender": null,
+    "genderText": null,
+    "category": "Greifvögel",
+    "distractors": [
+      "Rotmilan",
+      "Sperber",
+      "Turmfalke"
+    ],
+    "wikiUrl": "https://de.wikipedia.org/wiki/Habicht"
+  },
+  {
+    "path": "img/ebersberg/Habicht_1.jpg",
+    "location": "ebersberg",
+    "name": "Habicht",
+    "gender": null,
+    "genderText": null,
+    "category": "Greifvögel",
+    "distractors": [
+      "Habicht juv",
+      "Baumfalke",
+      "Rotmilan"
+    ],
+    "wikiUrl": "https://de.wikipedia.org/wiki/Habicht"
+  },
+  {
+    "path": "img/ebersberg/Habicht_2.jpg",
+    "location": "ebersberg",
+    "name": "Habicht",
+    "gender": null,
+    "genderText": null,
+    "category": "Greifvögel",
+    "distractors": [
+      "Rotmilan",
+      "Raufußbussard",
+      "Habicht juv"
+    ],
+    "wikiUrl": "https://de.wikipedia.org/wiki/Habicht"
+  },
+  {
+    "path": "img/ebersberg/Haselhuhn.jpg",
+    "location": "ebersberg",
+    "name": "Haselhuhn",
+    "gender": null,
+    "genderText": null,
+    "category": "Hühnervögel",
+    "distractors": [
+      "Auerhahn",
+      "Schneehuhn",
+      "Fasan"
+    ],
+    "wikiUrl": "https://de.wikipedia.org/wiki/Haselhuhn"
+  },
+  {
+    "path": "img/ebersberg/Haubentaucher.jpg",
+    "location": "ebersberg",
+    "name": "Haubentaucher",
+    "gender": null,
+    "genderText": null,
+    "category": "Wasservögel",
+    "distractors": [
+      "Kormoran",
+      "Blässhuhn",
+      "Grünfüßiges Teichhuhn"
+    ],
+    "wikiUrl": "https://de.wikipedia.org/wiki/Haubentaucher"
+  },
+  {
+    "path": "img/ebersberg/Haubentaucher_1.jpg",
+    "location": "ebersberg",
+    "name": "Haubentaucher",
+    "gender": null,
+    "genderText": null,
+    "category": "Wasservögel",
+    "distractors": [
+      "Kormoran",
+      "Grünfüßiges Teichhuhn",
+      "Zwergtaucher"
+    ],
+    "wikiUrl": "https://de.wikipedia.org/wiki/Haubentaucher"
+  },
+  {
+    "path": "img/ebersberg/Haubentaucher_2.jpg",
+    "location": "ebersberg",
+    "name": "Haubentaucher",
+    "gender": null,
+    "genderText": null,
+    "category": "Wasservögel",
+    "distractors": [
+      "Grünfüßiges Teichhuhn",
+      "Graureiher",
+      "Zwergtaucher"
+    ],
+    "wikiUrl": "https://de.wikipedia.org/wiki/Haubentaucher"
+  },
+  {
+    "path": "img/ebersberg/Hermelin (Großes Wiesel).jpg",
+    "location": "ebersberg",
+    "name": "Hermelin (Großes Wiesel)",
+    "gender": null,
+    "genderText": null,
+    "category": "Marderartige",
+    "distractors": [
+      "Hermelin (Winterfell)",
+      "Großes Mauswiesel Sommer",
+      "Mauswiesel"
+    ],
+    "wikiUrl": "https://de.wikipedia.org/wiki/Hermelin_(Gro%C3%9Fes_Wiesel)"
+  },
+  {
+    "path": "img/ebersberg/Hermelin (Sommerfell).jpg",
+    "location": "ebersberg",
+    "name": "Hermelin (Sommerfell)",
+    "gender": null,
+    "genderText": null,
+    "category": "Marderartige",
+    "distractors": [
+      "Großes Mauswiesel Sommer",
+      "Steinmarder",
+      "Hermelin (Winterfell)"
+    ],
+    "wikiUrl": "https://de.wikipedia.org/wiki/Hermelin_(Sommerfell)"
+  },
+  {
+    "path": "img/ebersberg/Hermelin (Winterfell).jpg",
+    "location": "ebersberg",
+    "name": "Hermelin (Winterfell)",
+    "gender": null,
+    "genderText": null,
+    "category": "Marderartige",
+    "distractors": [
+      "Steinmarder",
+      "Baummarder",
+      "Großes Mauswiesel Sommer"
+    ],
+    "wikiUrl": "https://de.wikipedia.org/wiki/Hermelin_(Winterfell)"
+  },
+  {
+    "path": "img/ebersberg/Iltis.jpg",
+    "location": "ebersberg",
+    "name": "Iltis",
+    "gender": null,
+    "genderText": null,
+    "category": "Marderartige",
+    "distractors": [
+      "Hermelin (Winterfell)",
+      "Hermelin (Sommerfell)",
+      "Mauswiesel"
+    ],
+    "wikiUrl": "https://de.wikipedia.org/wiki/Iltis"
+  },
+  {
+    "path": "img/ebersberg/Kiebitz.jpg",
+    "location": "ebersberg",
+    "name": "Kiebitz",
+    "gender": null,
+    "genderText": null,
+    "category": "Watvögel",
+    "distractors": [
+      "Waldschnepfe",
+      "Bekassine",
+      "Großer Brachvogel"
+    ],
+    "wikiUrl": "https://de.wikipedia.org/wiki/Kiebitz"
+  },
+  {
+    "path": "img/ebersberg/Kiebitz_1.jpg",
+    "location": "ebersberg",
+    "name": "Kiebitz",
+    "gender": null,
+    "genderText": null,
+    "category": "Watvögel",
+    "distractors": [
+      "Waldschnepfe",
+      "Bekassine",
+      "Großer Brachvogel"
+    ],
+    "wikiUrl": "https://de.wikipedia.org/wiki/Kiebitz"
+  },
+  {
+    "path": "img/ebersberg/Kiebitz_2.jpg",
+    "location": "ebersberg",
+    "name": "Kiebitz",
+    "gender": null,
+    "genderText": null,
+    "category": "Watvögel",
+    "distractors": [
+      "Bekassine",
+      "Waldschnepfe",
+      "Großer Brachvogel"
+    ],
+    "wikiUrl": "https://de.wikipedia.org/wiki/Kiebitz"
+  },
+  {
+    "path": "img/ebersberg/Krickente (Erpel).jpg",
+    "location": "ebersberg",
+    "name": "Krickente",
+    "gender": "m",
+    "genderText": "männlich (Erpel)",
+    "category": "Entenvögel",
+    "distractors": [
+      "Reiherente",
+      "Stockenten",
+      "Brandgans"
+    ],
+    "wikiUrl": "https://de.wikipedia.org/wiki/Krickente"
+  },
+  {
+    "path": "img/ebersberg/Krickente (Erpel)_1.jpg",
+    "location": "ebersberg",
+    "name": "Krickente",
+    "gender": "m",
+    "genderText": "männlich (Erpel)",
+    "category": "Entenvögel",
+    "distractors": [
+      "Knäckente",
+      "Krickente und Löffelente",
+      "Mittelsäger"
+    ],
+    "wikiUrl": "https://de.wikipedia.org/wiki/Krickente"
+  },
+  {
+    "path": "img/ebersberg/Krickente (weiblich).jpg",
+    "location": "ebersberg",
+    "name": "Krickente",
+    "gender": "w",
+    "genderText": "weiblich",
+    "category": "Entenvögel",
+    "distractors": [
+      "Stockente",
+      "Stockenten",
+      "Mittelsäger"
+    ],
+    "wikiUrl": "https://de.wikipedia.org/wiki/Krickente"
+  },
+  {
+    "path": "img/ebersberg/Krickente (weiblich)_1.jpg",
+    "location": "ebersberg",
+    "name": "Krickente",
+    "gender": "w",
+    "genderText": "weiblich",
+    "category": "Entenvögel",
+    "distractors": [
+      "Brandgans",
+      "Tafelente",
+      "Knäckente"
+    ],
+    "wikiUrl": "https://de.wikipedia.org/wiki/Krickente"
+  },
+  {
+    "path": "img/ebersberg/Krickente und Löffelente.jpg",
+    "location": "ebersberg",
+    "name": "Krickente und Löffelente",
+    "gender": null,
+    "genderText": null,
+    "category": "Entenvögel",
+    "distractors": [
+      "Stockenten",
+      "Reiherente",
+      "Knäckente"
+    ],
+    "wikiUrl": "https://de.wikipedia.org/wiki/Krickente_und_L%C3%B6ffelente"
+  },
+  {
+    "path": "img/ebersberg/Mauswiesel.jpg",
+    "location": "ebersberg",
+    "name": "Mauswiesel",
+    "gender": null,
+    "genderText": null,
+    "category": "Marderartige",
+    "distractors": [
+      "Hermelin (Großes Wiesel)",
+      "Großes Mauswiesel Sommer",
+      "Iltis"
+    ],
+    "wikiUrl": "https://de.wikipedia.org/wiki/Mauswiesel"
+  },
+  {
+    "path": "img/ebersberg/Mäusebussard.jpg",
+    "location": "ebersberg",
+    "name": "Mäusebussard",
+    "gender": null,
+    "genderText": null,
+    "category": "Greifvögel",
+    "distractors": [
+      "Turmfalke",
+      "Rohrweihe",
+      "Sperber"
+    ],
+    "wikiUrl": "https://de.wikipedia.org/wiki/M%C3%A4usebussard"
+  },
+  {
+    "path": "img/ebersberg/Pfeifente (Erpel).jpg",
+    "location": "ebersberg",
+    "name": "Pfeifente",
+    "gender": "m",
+    "genderText": "männlich (Erpel)",
+    "category": "Entenvögel",
+    "distractors": [
+      "Knäckente",
+      "Gänsesäger",
+      "Krickente und Löffelente"
+    ],
+    "wikiUrl": "https://de.wikipedia.org/wiki/Pfeifente"
+  },
+  {
+    "path": "img/ebersberg/Pfeifente (Erpel)_1.jpg",
+    "location": "ebersberg",
+    "name": "Pfeifente",
+    "gender": "m",
+    "genderText": "männlich (Erpel)",
+    "category": "Entenvögel",
+    "distractors": [
+      "Mittelsäger",
+      "Eiderente",
+      "Gänsesäger"
+    ],
+    "wikiUrl": "https://de.wikipedia.org/wiki/Pfeifente"
+  },
+  {
+    "path": "img/ebersberg/Pfeifente.jpg",
+    "location": "ebersberg",
+    "name": "Pfeifente",
+    "gender": null,
+    "genderText": null,
+    "category": "Entenvögel",
+    "distractors": [
+      "Stockenten",
+      "Reiherente",
+      "Löffelente"
+    ],
+    "wikiUrl": "https://de.wikipedia.org/wiki/Pfeifente"
+  },
+  {
+    "path": "img/ebersberg/Pirol.jpg",
+    "location": "ebersberg",
+    "name": "Pirol",
+    "gender": null,
+    "genderText": null,
+    "category": "Singvögel",
+    "distractors": [
+      "Eisvogel",
+      "Star",
+      "Bachstelze"
+    ],
+    "wikiUrl": "https://de.wikipedia.org/wiki/Pirol"
+  },
+  {
+    "path": "img/ebersberg/Rabenkrähe.jpg",
+    "location": "ebersberg",
+    "name": "Rabenkrähe",
+    "gender": null,
+    "genderText": null,
+    "category": "Rabenvögel",
+    "distractors": [
+      "Tannenhäher",
+      "Elster",
+      "Eichelhäher"
+    ],
+    "wikiUrl": "https://de.wikipedia.org/wiki/Rabenkr%C3%A4he"
+  },
+  {
+    "path": "img/ebersberg/Rabenkrähe_1.jpg",
+    "location": "ebersberg",
+    "name": "Rabenkrähe",
+    "gender": null,
+    "genderText": null,
+    "category": "Rabenvögel",
+    "distractors": [
+      "Elster",
+      "Eichelhäher",
+      "Dohle"
+    ],
+    "wikiUrl": "https://de.wikipedia.org/wiki/Rabenkr%C3%A4he"
+  },
+  {
+    "path": "img/ebersberg/Rebhuhn.jpg",
+    "location": "ebersberg",
+    "name": "Rebhuhn",
+    "gender": null,
+    "genderText": null,
+    "category": "Hühnervögel",
+    "distractors": [
+      "Steinhuhn",
+      "Fasan",
+      "Schneehuhn"
+    ],
+    "wikiUrl": "https://de.wikipedia.org/wiki/Rebhuhn"
+  },
+  {
+    "path": "img/ebersberg/Reiherente.jpg",
+    "location": "ebersberg",
+    "name": "Reiherente",
+    "gender": null,
+    "genderText": null,
+    "category": "Entenvögel",
+    "distractors": [
+      "Zwergsäger",
+      "Gänsesäger",
+      "Löffelente"
+    ],
+    "wikiUrl": "https://de.wikipedia.org/wiki/Reiherente"
+  },
+  {
+    "path": "img/ebersberg/Ringeltaube.jpg",
+    "location": "ebersberg",
+    "name": "Ringeltaube",
+    "gender": null,
+    "genderText": null,
+    "category": "Tauben",
+    "distractors": [
+      "Hohltaube",
+      "Türkentaube",
+      "Turteltaube"
+    ],
+    "wikiUrl": "https://de.wikipedia.org/wiki/Ringeltaube"
+  },
+  {
+    "path": "img/ebersberg/Ringeltaube_1.jpg",
+    "location": "ebersberg",
+    "name": "Ringeltaube",
+    "gender": null,
+    "genderText": null,
+    "category": "Tauben",
+    "distractors": [
+      "Türkentaube",
+      "Hohltaube",
+      "Turteltaube"
+    ],
+    "wikiUrl": "https://de.wikipedia.org/wiki/Ringeltaube"
+  },
+  {
+    "path": "img/ebersberg/Rotfuchs.jpg",
+    "location": "ebersberg",
+    "name": "Rotfuchs",
+    "gender": null,
+    "genderText": null,
+    "category": "Raubwild",
+    "distractors": [
+      "Eichhörnchen",
+      "Bachstelze",
+      "Elster"
+    ],
+    "wikiUrl": "https://de.wikipedia.org/wiki/Rotfuchs"
+  },
+  {
+    "path": "img/ebersberg/Rotfuchs_1.jpg",
+    "location": "ebersberg",
+    "name": "Rotfuchs",
+    "gender": null,
+    "genderText": null,
+    "category": "Raubwild",
+    "distractors": [
+      "Grauspecht",
+      "Kaninchen",
+      "Bläßhuhn"
+    ],
+    "wikiUrl": "https://de.wikipedia.org/wiki/Rotfuchs"
+  },
+  {
+    "path": "img/ebersberg/Rotfuchs_2.jpg",
+    "location": "ebersberg",
+    "name": "Rotfuchs",
+    "gender": null,
+    "genderText": null,
+    "category": "Raubwild",
+    "distractors": [
+      "Tafelente",
+      "Reiherente",
+      "Stockenten"
+    ],
+    "wikiUrl": "https://de.wikipedia.org/wiki/Rotfuchs"
+  },
+  {
+    "path": "img/ebersberg/Rotfuchs_3.jpg",
+    "location": "ebersberg",
+    "name": "Rotfuchs",
+    "gender": null,
+    "genderText": null,
+    "category": "Raubwild",
+    "distractors": [
+      "Zwergtaucher",
+      "Siebenschläfer",
+      "Haselhuhn"
+    ],
+    "wikiUrl": "https://de.wikipedia.org/wiki/Rotfuchs"
+  },
+  {
+    "path": "img/ebersberg/Schleiereule.jpg",
+    "location": "ebersberg",
+    "name": "Schleiereule",
+    "gender": null,
+    "genderText": null,
+    "category": "Eulen",
+    "distractors": [
+      "Waldkauz",
+      "Sumpfohreule",
+      "Waldohreule"
+    ],
+    "wikiUrl": "https://de.wikipedia.org/wiki/Schleiereule"
+  },
+  {
+    "path": "img/ebersberg/Schwarzspecht.jpg",
+    "location": "ebersberg",
+    "name": "Schwarzspecht",
+    "gender": null,
+    "genderText": null,
+    "category": "Spechte",
+    "distractors": [
+      "Buntspecht",
+      "Grünspecht",
+      "Grauspecht"
+    ],
+    "wikiUrl": "https://de.wikipedia.org/wiki/Schwarzspecht"
+  },
+  {
+    "path": "img/ebersberg/Singdrossel.jpg",
+    "location": "ebersberg",
+    "name": "Singdrossel",
+    "gender": null,
+    "genderText": null,
+    "category": "Singvögel",
+    "distractors": [
+      "Amsel",
+      "Raubwürger",
+      "Star"
+    ],
+    "wikiUrl": "https://de.wikipedia.org/wiki/Singdrossel"
+  },
+  {
+    "path": "img/ebersberg/Sperber.jpg",
+    "location": "ebersberg",
+    "name": "Sperber",
+    "gender": null,
+    "genderText": null,
+    "category": "Greifvögel",
+    "distractors": [
+      "Habicht",
+      "Rohrweihe",
+      "Baumfalke"
+    ],
+    "wikiUrl": "https://de.wikipedia.org/wiki/Sperber"
+  },
+  {
+    "path": "img/ebersberg/Steinkauz.jpg",
+    "location": "ebersberg",
+    "name": "Steinkauz",
+    "gender": null,
+    "genderText": null,
+    "category": "Eulen",
+    "distractors": [
+      "Waldkauz",
+      "Sumpfohreule",
+      "Schleiereule"
+    ],
+    "wikiUrl": "https://de.wikipedia.org/wiki/Steinkauz"
+  },
+  {
+    "path": "img/ebersberg/Steinmarder.jpg",
+    "location": "ebersberg",
+    "name": "Steinmarder",
+    "gender": null,
+    "genderText": null,
+    "category": "Marderartige",
+    "distractors": [
+      "Hermelin (Großes Wiesel)",
+      "Großes Mauswiesel Sommer",
+      "Iltis"
+    ],
+    "wikiUrl": "https://de.wikipedia.org/wiki/Steinmarder"
+  },
+  {
+    "path": "img/ebersberg/Steinmarder_1.jpg",
+    "location": "ebersberg",
+    "name": "Steinmarder",
+    "gender": null,
+    "genderText": null,
+    "category": "Marderartige",
+    "distractors": [
+      "Hermelin (Winterfell)",
+      "Großes Mauswiesel (Hermelin) Winter",
+      "Baummarder"
+    ],
+    "wikiUrl": "https://de.wikipedia.org/wiki/Steinmarder"
+  },
+  {
+    "path": "img/ebersberg/Steinmarder_2.jpg",
+    "location": "ebersberg",
+    "name": "Steinmarder",
+    "gender": null,
+    "genderText": null,
+    "category": "Marderartige",
+    "distractors": [
+      "Mauswiesel",
+      "Großes Mauswiesel (Hermelin) Winter",
+      "Iltis"
+    ],
+    "wikiUrl": "https://de.wikipedia.org/wiki/Steinmarder"
+  },
+  {
+    "path": "img/ebersberg/Stockente (Paar).jpg",
+    "location": "ebersberg",
+    "name": "Stockente",
+    "gender": "paar",
+    "genderText": "Paar",
+    "category": "Entenvögel",
+    "distractors": [
+      "Stockenten",
+      "Krickente und Löffelente",
+      "Tafelente"
+    ],
+    "wikiUrl": "https://de.wikipedia.org/wiki/Stockente"
+  },
+  {
+    "path": "img/ebersberg/Stockente (Paar)_1.jpg",
+    "location": "ebersberg",
+    "name": "Stockente",
+    "gender": "paar",
+    "genderText": "Paar",
+    "category": "Entenvögel",
+    "distractors": [
+      "Stockenten",
+      "Knäckente",
+      "Tafelente"
+    ],
+    "wikiUrl": "https://de.wikipedia.org/wiki/Stockente"
+  },
+  {
+    "path": "img/ebersberg/Stockente (weiblich).jpg",
+    "location": "ebersberg",
+    "name": "Stockente",
+    "gender": "w",
+    "genderText": "weiblich",
+    "category": "Entenvögel",
+    "distractors": [
+      "Tafelente",
+      "Löffelente",
+      "Gans"
+    ],
+    "wikiUrl": "https://de.wikipedia.org/wiki/Stockente"
+  },
+  {
+    "path": "img/ebersberg/Stockente (weiblich)_1.jpg",
+    "location": "ebersberg",
+    "name": "Stockente",
+    "gender": "w",
+    "genderText": "weiblich",
+    "category": "Entenvögel",
+    "distractors": [
+      "Tafelente",
+      "Eiderente",
+      "Krickente"
+    ],
+    "wikiUrl": "https://de.wikipedia.org/wiki/Stockente"
+  },
+  {
+    "path": "img/ebersberg/Tafelente.jpg",
+    "location": "ebersberg",
+    "name": "Tafelente",
+    "gender": null,
+    "genderText": null,
+    "category": "Entenvögel",
+    "distractors": [
+      "Krickente",
+      "Knäckente",
+      "Reiherente"
+    ],
+    "wikiUrl": "https://de.wikipedia.org/wiki/Tafelente"
+  },
+  {
+    "path": "img/ebersberg/Turmfalke.jpg",
+    "location": "ebersberg",
+    "name": "Turmfalke",
+    "gender": null,
+    "genderText": null,
+    "category": "Greifvögel",
+    "distractors": [
+      "Baumfalke",
+      "Mäusebussard",
+      "Steinadler"
+    ],
+    "wikiUrl": "https://de.wikipedia.org/wiki/Turmfalke"
+  },
+  {
+    "path": "img/ebersberg/Turmfalke_1.jpg",
+    "location": "ebersberg",
+    "name": "Turmfalke",
+    "gender": null,
+    "genderText": null,
+    "category": "Greifvögel",
+    "distractors": [
+      "Baumfalke",
+      "Rotmilan",
+      "Wanderfalke"
+    ],
+    "wikiUrl": "https://de.wikipedia.org/wiki/Turmfalke"
+  },
+  {
+    "path": "img/ebersberg/Turmfalke_2.jpg",
+    "location": "ebersberg",
+    "name": "Turmfalke",
+    "gender": null,
+    "genderText": null,
+    "category": "Greifvögel",
+    "distractors": [
+      "Habicht",
+      "Baumfalke",
+      "Habicht juv"
+    ],
+    "wikiUrl": "https://de.wikipedia.org/wiki/Turmfalke"
+  },
+  {
+    "path": "img/ebersberg/Türkentaube.jpg",
+    "location": "ebersberg",
+    "name": "Türkentaube",
+    "gender": null,
+    "genderText": null,
+    "category": "Tauben",
+    "distractors": [
+      "Hohltaube",
+      "Turteltaube",
+      "Ringeltaube"
+    ],
+    "wikiUrl": "https://de.wikipedia.org/wiki/T%C3%BCrkentaube"
+  },
+  {
+    "path": "img/ebersberg/Türkentaube_1.jpg",
+    "location": "ebersberg",
+    "name": "Türkentaube",
+    "gender": null,
+    "genderText": null,
+    "category": "Tauben",
+    "distractors": [
+      "Hohltaube",
+      "Turteltaube",
+      "Ringeltaube"
+    ],
+    "wikiUrl": "https://de.wikipedia.org/wiki/T%C3%BCrkentaube"
+  },
+  {
+    "path": "img/ebersberg/Türkentaube_2.jpg",
+    "location": "ebersberg",
+    "name": "Türkentaube",
+    "gender": null,
+    "genderText": null,
+    "category": "Tauben",
+    "distractors": [
+      "Ringeltaube",
+      "Hohltaube",
+      "Turteltaube"
+    ],
+    "wikiUrl": "https://de.wikipedia.org/wiki/T%C3%BCrkentaube"
+  },
+  {
+    "path": "img/ebersberg/Uhu.jpg",
+    "location": "ebersberg",
+    "name": "Uhu",
+    "gender": null,
+    "genderText": null,
+    "category": "Eulen",
+    "distractors": [
+      "Sumpfohreule",
+      "Steinkauz",
+      "Waldohreule"
+    ],
+    "wikiUrl": "https://de.wikipedia.org/wiki/Uhu"
+  },
+  {
+    "path": "img/ebersberg/Waldkauz.jpg",
+    "location": "ebersberg",
+    "name": "Waldkauz",
+    "gender": null,
+    "genderText": null,
+    "category": "Eulen",
+    "distractors": [
+      "Sumpfohreule",
+      "Steinkauz",
+      "Waldohreule"
+    ],
+    "wikiUrl": "https://de.wikipedia.org/wiki/Waldkauz"
+  },
+  {
+    "path": "img/ebersberg/Waldkauz_1.jpg",
+    "location": "ebersberg",
+    "name": "Waldkauz",
+    "gender": null,
+    "genderText": null,
+    "category": "Eulen",
+    "distractors": [
+      "Waldohreule",
+      "Ziegenmelker",
+      "Steinkauz"
+    ],
+    "wikiUrl": "https://de.wikipedia.org/wiki/Waldkauz"
+  },
+  {
+    "path": "img/ebersberg/Waldkauz_2.jpg",
+    "location": "ebersberg",
+    "name": "Waldkauz",
+    "gender": null,
+    "genderText": null,
+    "category": "Eulen",
+    "distractors": [
+      "Schleiereule",
+      "Uhu",
+      "Steinkauz"
+    ],
+    "wikiUrl": "https://de.wikipedia.org/wiki/Waldkauz"
+  },
+  {
+    "path": "img/ebersberg/Waldschnepfe.jpg",
+    "location": "ebersberg",
+    "name": "Waldschnepfe",
+    "gender": null,
+    "genderText": null,
+    "category": "Watvögel",
+    "distractors": [
+      "Großer Brachvogel",
+      "Kiebitz",
+      "Bekassine"
+    ],
+    "wikiUrl": "https://de.wikipedia.org/wiki/Waldschnepfe"
+  },
+  {
+    "path": "img/ebersberg/Waldschnepfe_1.jpg",
+    "location": "ebersberg",
+    "name": "Waldschnepfe",
+    "gender": null,
+    "genderText": null,
+    "category": "Watvögel",
+    "distractors": [
+      "Kiebitz",
+      "Bekassine",
+      "Großer Brachvogel"
+    ],
+    "wikiUrl": "https://de.wikipedia.org/wiki/Waldschnepfe"
+  },
+  {
+    "path": "img/ebersberg/Waldschnepfe_2.jpg",
+    "location": "ebersberg",
+    "name": "Waldschnepfe",
+    "gender": null,
+    "genderText": null,
+    "category": "Watvögel",
+    "distractors": [
+      "Bekassine",
+      "Großer Brachvogel",
+      "Kiebitz"
+    ],
+    "wikiUrl": "https://de.wikipedia.org/wiki/Waldschnepfe"
+  },
+  {
+    "path": "img/ebersberg/Wanderfalke.jpg",
+    "location": "ebersberg",
+    "name": "Wanderfalke",
+    "gender": null,
+    "genderText": null,
+    "category": "Greifvögel",
+    "distractors": [
+      "Habicht",
+      "Sperber",
+      "Raufußbussard"
+    ],
+    "wikiUrl": "https://de.wikipedia.org/wiki/Wanderfalke"
+  },
+  {
+    "path": "img/ebersberg/Ziegenmelker.jpg",
+    "location": "ebersberg",
+    "name": "Ziegenmelker",
+    "gender": null,
+    "genderText": null,
+    "category": "Eulen",
+    "distractors": [
+      "Waldohreule",
+      "Waldkauz",
+      "Uhu"
+    ],
+    "wikiUrl": "https://de.wikipedia.org/wiki/Ziegenmelker"
+  },
+  {
+    "path": "img/rosenheim/SG2_S_Baummarder.jpg",
+    "location": "rosenheim",
+    "name": "Baummarder",
+    "gender": null,
+    "genderText": null,
+    "category": "Marderartige",
+    "distractors": [
+      "Hermelin (Winterfell)",
+      "Iltis",
+      "Hermelin (Großes Wiesel)"
+    ],
+    "wikiUrl": "https://de.wikipedia.org/wiki/Baummarder"
+  },
+  {
+    "path": "img/rosenheim/SG2_S_Dachs.jpg",
+    "location": "rosenheim",
+    "name": "Dachs",
+    "gender": null,
+    "genderText": null,
+    "category": "Raubwild",
+    "distractors": [
+      "Gänsesäger",
+      "Kaninchen",
+      "Hermelin (Großes Wiesel)"
+    ],
+    "wikiUrl": "https://de.wikipedia.org/wiki/Dachs"
+  },
+  {
+    "path": "img/rosenheim/SG2_S_Feldhase.jpg",
+    "location": "rosenheim",
+    "name": "Feldhase",
+    "gender": null,
+    "genderText": null,
+    "category": "Hasenartige",
+    "distractors": [
+      "Siebenschläfer",
+      "Brandgans",
+      "Schneehase"
+    ],
+    "wikiUrl": "https://de.wikipedia.org/wiki/Feldhase"
+  },
+  {
+    "path": "img/rosenheim/SG2_S_Feldhase_1.jpg",
+    "location": "rosenheim",
+    "name": "Feldhase",
+    "gender": null,
+    "genderText": null,
+    "category": "Hasenartige",
+    "distractors": [
+      "Schwarzspecht",
+      "Krickente",
+      "Waldohreule"
+    ],
+    "wikiUrl": "https://de.wikipedia.org/wiki/Feldhase"
+  },
+  {
+    "path": "img/rosenheim/SG2_S_Frischling.jpg",
+    "location": "rosenheim",
+    "name": "Frischling",
+    "gender": null,
+    "genderText": null,
+    "category": "Schwarzwild",
+    "distractors": [
+      "Saatkrähe",
+      "Nebelkrähe",
+      "Schleiereule"
+    ],
+    "wikiUrl": "https://de.wikipedia.org/wiki/Frischling"
+  },
+  {
+    "path": "img/rosenheim/SG2_S_Fuchs.jpg",
+    "location": "rosenheim",
+    "name": "Fuchs",
+    "gender": null,
+    "genderText": null,
+    "category": "Raubwild",
+    "distractors": [
+      "Blässhuhn",
+      "Grünspecht",
+      "Feldhase"
+    ],
+    "wikiUrl": "https://de.wikipedia.org/wiki/Fuchs"
+  },
+  {
+    "path": "img/rosenheim/SG2_S_Großes_Mauswiesel_(Hermelin)_Winter.jpg",
+    "location": "rosenheim",
+    "name": "Großes Mauswiesel (Hermelin) Winter",
+    "gender": null,
+    "genderText": null,
+    "category": "Marderartige",
+    "distractors": [
+      "Steinmarder",
+      "Hermelin (Großes Wiesel)",
+      "Großes Mauswiesel Sommer"
+    ],
+    "wikiUrl": "https://de.wikipedia.org/wiki/Gro%C3%9Fes_Mauswiesel_(Hermelin)_Winter"
+  },
+  {
+    "path": "img/rosenheim/SG2_S_Großes_Mauswiesel_Sommer.jpg",
+    "location": "rosenheim",
+    "name": "Großes Mauswiesel Sommer",
+    "gender": null,
+    "genderText": null,
+    "category": "Marderartige",
+    "distractors": [
+      "Baummarder",
+      "Steinmarder",
+      "Hermelin (Großes Wiesel)"
+    ],
+    "wikiUrl": "https://de.wikipedia.org/wiki/Gro%C3%9Fes_Mauswiesel_Sommer"
+  },
+  {
+    "path": "img/rosenheim/SG2_S_Iltis.jpg",
+    "location": "rosenheim",
+    "name": "Iltis",
+    "gender": null,
+    "genderText": null,
+    "category": "Marderartige",
+    "distractors": [
+      "Großes Mauswiesel Sommer",
+      "Hermelin (Großes Wiesel)",
+      "Baummarder"
+    ],
+    "wikiUrl": "https://de.wikipedia.org/wiki/Iltis"
+  },
+  {
+    "path": "img/rosenheim/SG2_S_Kaninchen.jpg",
+    "location": "rosenheim",
+    "name": "Kaninchen",
+    "gender": null,
+    "genderText": null,
+    "category": "Hasenartige",
+    "distractors": [
+      "Iltis",
+      "Pirol",
+      "Star"
+    ],
+    "wikiUrl": "https://de.wikipedia.org/wiki/Kaninchen"
+  },
+  {
+    "path": "img/rosenheim/SG2_S_Mauswiesel (2).jpg",
+    "location": "rosenheim",
+    "name": "Mauswiesel",
+    "gender": null,
+    "genderText": null,
+    "category": "Marderartige",
+    "distractors": [
+      "Großes Mauswiesel (Hermelin) Winter",
+      "Hermelin (Sommerfell)",
+      "Baummarder"
+    ],
+    "wikiUrl": "https://de.wikipedia.org/wiki/Mauswiesel"
+  },
+  {
+    "path": "img/rosenheim/SG2_S_Mauswiesel.jpg",
+    "location": "rosenheim",
+    "name": "Mauswiesel",
+    "gender": null,
+    "genderText": null,
+    "category": "Marderartige",
+    "distractors": [
+      "Iltis",
+      "Großes Mauswiesel Sommer",
+      "Steinmarder"
+    ],
+    "wikiUrl": "https://de.wikipedia.org/wiki/Mauswiesel"
+  },
+  {
+    "path": "img/rosenheim/SG2_S_Murmeltier.jpg",
+    "location": "rosenheim",
+    "name": "Murmeltier",
+    "gender": null,
+    "genderText": null,
+    "category": "Nagetiere und Insektenfresser",
+    "distractors": [
+      "Biber",
+      "Bisam",
+      "Eichhörnchen"
+    ],
+    "wikiUrl": "https://de.wikipedia.org/wiki/Murmeltier"
+  },
+  {
+    "path": "img/rosenheim/SG2_S_Steinmarder.jpg",
+    "location": "rosenheim",
+    "name": "Steinmarder",
+    "gender": null,
+    "genderText": null,
+    "category": "Marderartige",
+    "distractors": [
+      "Großes Mauswiesel Sommer",
+      "Hermelin (Sommerfell)",
+      "Hermelin (Winterfell)"
+    ],
+    "wikiUrl": "https://de.wikipedia.org/wiki/Steinmarder"
+  },
+  {
+    "path": "img/rosenheim/SG2_V_Auerhahn.jpg",
+    "location": "rosenheim",
+    "name": "Auerhahn",
+    "gender": null,
+    "genderText": null,
+    "category": "Hühnervögel",
+    "distractors": [
+      "Haselhuhn",
+      "Rebhuhn",
+      "Wachtel"
+    ],
+    "wikiUrl": "https://de.wikipedia.org/wiki/Auerhahn"
+  },
+  {
+    "path": "img/rosenheim/SG2_V_Baumfalke.jpg",
+    "location": "rosenheim",
+    "name": "Baumfalke",
+    "gender": null,
+    "genderText": null,
+    "category": "Greifvögel",
+    "distractors": [
+      "Raufußbussard",
+      "Sperber",
+      "Wanderfalke"
+    ],
+    "wikiUrl": "https://de.wikipedia.org/wiki/Baumfalke"
+  },
+  {
+    "path": "img/rosenheim/SG2_V_Birkhahn.jpg",
+    "location": "rosenheim",
+    "name": "Birkhahn",
+    "gender": null,
+    "genderText": null,
+    "category": "Hühnervögel",
+    "distractors": [
+      "Rebhuhn",
+      "Wachtel",
+      "Steinhuhn"
+    ],
+    "wikiUrl": "https://de.wikipedia.org/wiki/Birkhahn"
+  },
+  {
+    "path": "img/rosenheim/SG2_V_Bläßhuhn.jpg",
+    "location": "rosenheim",
+    "name": "Bläßhuhn",
+    "gender": null,
+    "genderText": null,
+    "category": "Wasservögel",
+    "distractors": [
+      "Kormoran",
+      "Blässhuhn",
+      "Lachmöwe"
+    ],
+    "wikiUrl": "https://de.wikipedia.org/wiki/Bl%C3%A4%C3%9Fhuhn"
+  },
+  {
+    "path": "img/rosenheim/SG2_V_Brandgans.jpg",
+    "location": "rosenheim",
+    "name": "Brandgans",
+    "gender": null,
+    "genderText": null,
+    "category": "Entenvögel",
+    "distractors": [
+      "Gänsesäger",
+      "Tafelente",
+      "Stockente"
+    ],
+    "wikiUrl": "https://de.wikipedia.org/wiki/Brandgans"
+  },
+  {
+    "path": "img/rosenheim/SG2_V_Eichelhäher (2).jpg",
+    "location": "rosenheim",
+    "name": "Eichelhäher",
+    "gender": null,
+    "genderText": null,
+    "category": "Rabenvögel",
+    "distractors": [
+      "Nebelkrähe",
+      "Saatkrähe",
+      "Elster"
+    ],
+    "wikiUrl": "https://de.wikipedia.org/wiki/Eichelh%C3%A4her"
+  },
+  {
+    "path": "img/rosenheim/SG2_V_Eichelhäher.jpg",
+    "location": "rosenheim",
+    "name": "Eichelhäher",
+    "gender": null,
+    "genderText": null,
+    "category": "Rabenvögel",
+    "distractors": [
+      "Saatkrähe",
+      "Tannenhäher",
+      "Dohle"
+    ],
+    "wikiUrl": "https://de.wikipedia.org/wiki/Eichelh%C3%A4her"
+  },
+  {
+    "path": "img/rosenheim/SG2_V_Eiderente.jpg",
+    "location": "rosenheim",
+    "name": "Eiderente",
+    "gender": null,
+    "genderText": null,
+    "category": "Entenvögel",
+    "distractors": [
+      "Brandgans",
+      "Krickente und Löffelente",
+      "Mittelsäger"
+    ],
+    "wikiUrl": "https://de.wikipedia.org/wiki/Eiderente"
+  },
+  {
+    "path": "img/rosenheim/SG2_V_Elster (2).jpg",
+    "location": "rosenheim",
+    "name": "Elster",
+    "gender": null,
+    "genderText": null,
+    "category": "Rabenvögel",
+    "distractors": [
+      "Tannenhäher",
+      "Nebelkrähe",
+      "Eichelhäher"
+    ],
+    "wikiUrl": "https://de.wikipedia.org/wiki/Elster"
+  },
+  {
+    "path": "img/rosenheim/SG2_V_Elster.jpg",
+    "location": "rosenheim",
+    "name": "Elster",
+    "gender": null,
+    "genderText": null,
+    "category": "Rabenvögel",
+    "distractors": [
+      "Tannenhäher",
+      "Saatkrähe",
+      "Dohle"
+    ],
+    "wikiUrl": "https://de.wikipedia.org/wiki/Elster"
+  },
+  {
+    "path": "img/rosenheim/SG2_V_Fasan.jpg",
+    "location": "rosenheim",
+    "name": "Fasan",
+    "gender": null,
+    "genderText": null,
+    "category": "Hühnervögel",
+    "distractors": [
+      "Haselhuhn",
+      "Steinhuhn",
+      "Wachtel"
+    ],
+    "wikiUrl": "https://de.wikipedia.org/wiki/Fasan"
+  },
+  {
+    "path": "img/rosenheim/SG2_V_Fasan_m.jpg",
+    "location": "rosenheim",
+    "name": "Fasan",
+    "gender": "m",
+    "genderText": "männlich",
+    "category": "Hühnervögel",
+    "distractors": [
+      "Rebhuhn",
+      "Wachtel",
+      "Schneehuhn"
+    ],
+    "wikiUrl": "https://de.wikipedia.org/wiki/Fasan"
+  },
+  {
+    "path": "img/rosenheim/SG2_V_Fasan_w.jpg",
+    "location": "rosenheim",
+    "name": "Fasan",
+    "gender": "w",
+    "genderText": "weiblich",
+    "category": "Hühnervögel",
+    "distractors": [
+      "Rebhuhn",
+      "Birkhahn",
+      "Steinhuhn"
+    ],
+    "wikiUrl": "https://de.wikipedia.org/wiki/Fasan"
+  },
+  {
+    "path": "img/rosenheim/SG2_V_Gans.jpg",
+    "location": "rosenheim",
+    "name": "Gans",
+    "gender": null,
+    "genderText": null,
+    "category": "Entenvögel",
+    "distractors": [
+      "Pfeifente",
+      "Krickente und Löffelente",
+      "Reiherente"
+    ],
+    "wikiUrl": "https://de.wikipedia.org/wiki/Gans"
+  },
+  {
+    "path": "img/rosenheim/SG2_V_Graureiher.jpg",
+    "location": "rosenheim",
+    "name": "Graureiher",
+    "gender": null,
+    "genderText": null,
+    "category": "Wasservögel",
+    "distractors": [
+      "Grünfüßiges Teichhuhn",
+      "Haubentaucher",
+      "Kormoran"
+    ],
+    "wikiUrl": "https://de.wikipedia.org/wiki/Graureiher"
+  },
+  {
+    "path": "img/rosenheim/SG2_V_Grünfüßiges Teichhuhn.jpg",
+    "location": "rosenheim",
+    "name": "Grünfüßiges Teichhuhn",
+    "gender": null,
+    "genderText": null,
+    "category": "Wasservögel",
+    "distractors": [
+      "Kormoran",
+      "Blässhuhn",
+      "Bläßhuhn"
+    ],
+    "wikiUrl": "https://de.wikipedia.org/wiki/Gr%C3%BCnf%C3%BC%C3%9Figes_Teichhuhn"
+  },
+  {
+    "path": "img/rosenheim/SG2_V_Gänsesäger.jpg",
+    "location": "rosenheim",
+    "name": "Gänsesäger",
+    "gender": null,
+    "genderText": null,
+    "category": "Entenvögel",
+    "distractors": [
+      "Stockente",
+      "Pfeifente",
+      "Brandgans"
+    ],
+    "wikiUrl": "https://de.wikipedia.org/wiki/G%C3%A4nses%C3%A4ger"
+  },
+  {
+    "path": "img/rosenheim/SG2_V_Habicht.jpg",
+    "location": "rosenheim",
+    "name": "Habicht",
+    "gender": null,
+    "genderText": null,
+    "category": "Greifvögel",
+    "distractors": [
+      "Rotmilan",
+      "Wanderfalke",
+      "Sperber"
+    ],
+    "wikiUrl": "https://de.wikipedia.org/wiki/Habicht"
+  },
+  {
+    "path": "img/rosenheim/SG2_V_Habicht_juv.jpg",
+    "location": "rosenheim",
+    "name": "Habicht juv",
+    "gender": null,
+    "genderText": null,
+    "category": "Greifvögel",
+    "distractors": [
+      "Habicht",
+      "Schwarzmilan",
+      "Steinadler"
+    ],
+    "wikiUrl": "https://de.wikipedia.org/wiki/Habicht_juv"
+  },
+  {
+    "path": "img/rosenheim/SG2_V_Haselhuhn.jpg",
+    "location": "rosenheim",
+    "name": "Haselhuhn",
+    "gender": null,
+    "genderText": null,
+    "category": "Hühnervögel",
+    "distractors": [
+      "Rebhuhn",
+      "Birkhahn",
+      "Wachtel"
+    ],
+    "wikiUrl": "https://de.wikipedia.org/wiki/Haselhuhn"
+  },
+  {
+    "path": "img/rosenheim/SG2_V_Haubentaucher_m.jpg",
+    "location": "rosenheim",
+    "name": "Haubentaucher",
+    "gender": "m",
+    "genderText": "männlich",
+    "category": "Wasservögel",
+    "distractors": [
+      "Lachmöwe",
+      "Blässhuhn",
+      "Zwergtaucher"
+    ],
+    "wikiUrl": "https://de.wikipedia.org/wiki/Haubentaucher"
+  },
+  {
+    "path": "img/rosenheim/SG2_V_Haubentaucher_w.jpg",
+    "location": "rosenheim",
+    "name": "Haubentaucher",
+    "gender": "w",
+    "genderText": "weiblich",
+    "category": "Wasservögel",
+    "distractors": [
+      "Blässhuhn",
+      "Kormoran",
+      "Bläßhuhn"
+    ],
+    "wikiUrl": "https://de.wikipedia.org/wiki/Haubentaucher"
+  },
+  {
+    "path": "img/rosenheim/SG2_V_Hohltaube.jpg",
+    "location": "rosenheim",
+    "name": "Hohltaube",
+    "gender": null,
+    "genderText": null,
+    "category": "Tauben",
+    "distractors": [
+      "Turteltaube",
+      "Türkentaube",
+      "Ringeltaube"
+    ],
+    "wikiUrl": "https://de.wikipedia.org/wiki/Hohltaube"
+  },
+  {
+    "path": "img/rosenheim/SG2_V_Knäckente_m.jpg",
+    "location": "rosenheim",
+    "name": "Knäckente",
+    "gender": "m",
+    "genderText": "männlich",
+    "category": "Entenvögel",
+    "distractors": [
+      "Stockenten",
+      "Tafelente",
+      "Eiderente"
+    ],
+    "wikiUrl": "https://de.wikipedia.org/wiki/Kn%C3%A4ckente"
+  },
+  {
+    "path": "img/rosenheim/SG2_V_Knäckente_w.jpg",
+    "location": "rosenheim",
+    "name": "Knäckente",
+    "gender": "w",
+    "genderText": "weiblich",
+    "category": "Entenvögel",
+    "distractors": [
+      "Löffelente",
+      "Tafelente",
+      "Gans"
+    ],
+    "wikiUrl": "https://de.wikipedia.org/wiki/Kn%C3%A4ckente"
+  },
+  {
+    "path": "img/rosenheim/SG2_V_Kormoran.jpg",
+    "location": "rosenheim",
+    "name": "Kormoran",
+    "gender": null,
+    "genderText": null,
+    "category": "Wasservögel",
+    "distractors": [
+      "Graureiher",
+      "Bläßhuhn",
+      "Zwergtaucher"
+    ],
+    "wikiUrl": "https://de.wikipedia.org/wiki/Kormoran"
+  },
+  {
+    "path": "img/rosenheim/SG2_V_Krickente_m.jpg",
+    "location": "rosenheim",
+    "name": "Krickente",
+    "gender": "m",
+    "genderText": "männlich",
+    "category": "Entenvögel",
+    "distractors": [
+      "Krickente und Löffelente",
+      "Reiherente",
+      "Mittelsäger"
+    ],
+    "wikiUrl": "https://de.wikipedia.org/wiki/Krickente"
+  },
+  {
+    "path": "img/rosenheim/SG2_V_Krickente_w.jpg",
+    "location": "rosenheim",
+    "name": "Krickente",
+    "gender": "w",
+    "genderText": "weiblich",
+    "category": "Entenvögel",
+    "distractors": [
+      "Pfeifente",
+      "Tafelente",
+      "Krickente und Löffelente"
+    ],
+    "wikiUrl": "https://de.wikipedia.org/wiki/Krickente"
+  },
+  {
+    "path": "img/rosenheim/SG2_V_Lachmöwe.jpg",
+    "location": "rosenheim",
+    "name": "Lachmöwe",
+    "gender": null,
+    "genderText": null,
+    "category": "Wasservögel",
+    "distractors": [
+      "Blässhuhn",
+      "Zwergtaucher",
+      "Kormoran"
+    ],
+    "wikiUrl": "https://de.wikipedia.org/wiki/Lachm%C3%B6we"
+  },
+  {
+    "path": "img/rosenheim/SG2_V_Löffelente_m.jpg",
+    "location": "rosenheim",
+    "name": "Löffelente",
+    "gender": "m",
+    "genderText": "männlich",
+    "category": "Entenvögel",
+    "distractors": [
+      "Brandgans",
+      "Mittelsäger",
+      "Zwergsäger"
+    ],
+    "wikiUrl": "https://de.wikipedia.org/wiki/L%C3%B6ffelente"
+  },
+  {
+    "path": "img/rosenheim/SG2_V_Löffelente_w.jpg",
+    "location": "rosenheim",
+    "name": "Löffelente",
+    "gender": "w",
+    "genderText": "weiblich",
+    "category": "Entenvögel",
+    "distractors": [
+      "Pfeifente",
+      "Knäckente",
+      "Stockenten"
+    ],
+    "wikiUrl": "https://de.wikipedia.org/wiki/L%C3%B6ffelente"
+  },
+  {
+    "path": "img/rosenheim/SG2_V_Mittelsäger_m.jpg",
+    "location": "rosenheim",
+    "name": "Mittelsäger",
+    "gender": "m",
+    "genderText": "männlich",
+    "category": "Entenvögel",
+    "distractors": [
+      "Eiderente",
+      "Knäckente",
+      "Krickente und Löffelente"
+    ],
+    "wikiUrl": "https://de.wikipedia.org/wiki/Mittels%C3%A4ger"
+  },
+  {
+    "path": "img/rosenheim/SG2_V_Mäusebussard.jpg",
+    "location": "rosenheim",
+    "name": "Mäusebussard",
+    "gender": null,
+    "genderText": null,
+    "category": "Greifvögel",
+    "distractors": [
+      "Sperber",
+      "Wanderfalke",
+      "Rohrweihe"
+    ],
+    "wikiUrl": "https://de.wikipedia.org/wiki/M%C3%A4usebussard"
+  },
+  {
+    "path": "img/rosenheim/SG2_V_Nebelkrähe.jpg",
+    "location": "rosenheim",
+    "name": "Nebelkrähe",
+    "gender": null,
+    "genderText": null,
+    "category": "Rabenvögel",
+    "distractors": [
+      "Tannenhäher",
+      "Dohle",
+      "Rabenkrähe"
+    ],
+    "wikiUrl": "https://de.wikipedia.org/wiki/Nebelkr%C3%A4he"
+  },
+  {
+    "path": "img/rosenheim/SG2_V_Pfeifente_m.jpg",
+    "location": "rosenheim",
+    "name": "Pfeifente",
+    "gender": "m",
+    "genderText": "männlich",
+    "category": "Entenvögel",
+    "distractors": [
+      "Eiderente",
+      "Zwergsäger",
+      "Krickente und Löffelente"
+    ],
+    "wikiUrl": "https://de.wikipedia.org/wiki/Pfeifente"
+  },
+  {
+    "path": "img/rosenheim/SG2_V_Pfeifente_w.jpg",
+    "location": "rosenheim",
+    "name": "Pfeifente",
+    "gender": "w",
+    "genderText": "weiblich",
+    "category": "Entenvögel",
+    "distractors": [
+      "Eiderente",
+      "Mittelsäger",
+      "Knäckente"
+    ],
+    "wikiUrl": "https://de.wikipedia.org/wiki/Pfeifente"
+  },
+  {
+    "path": "img/rosenheim/SG2_V_Rabenkrähe.jpg",
+    "location": "rosenheim",
+    "name": "Rabenkrähe",
+    "gender": null,
+    "genderText": null,
+    "category": "Rabenvögel",
+    "distractors": [
+      "Tannenhäher",
+      "Eichelhäher",
+      "Elster"
+    ],
+    "wikiUrl": "https://de.wikipedia.org/wiki/Rabenkr%C3%A4he"
+  },
+  {
+    "path": "img/rosenheim/SG2_V_Raufußbussard.jpg",
+    "location": "rosenheim",
+    "name": "Raufußbussard",
+    "gender": null,
+    "genderText": null,
+    "category": "Greifvögel",
+    "distractors": [
+      "Sperber",
+      "Schwarzmilan",
+      "Steinadler"
+    ],
+    "wikiUrl": "https://de.wikipedia.org/wiki/Raufu%C3%9Fbussard"
+  },
+  {
+    "path": "img/rosenheim/SG2_V_Rebhuhn.jpg",
+    "location": "rosenheim",
+    "name": "Rebhuhn",
+    "gender": null,
+    "genderText": null,
+    "category": "Hühnervögel",
+    "distractors": [
+      "Birkhahn",
+      "Haselhuhn",
+      "Steinhuhn"
+    ],
+    "wikiUrl": "https://de.wikipedia.org/wiki/Rebhuhn"
+  },
+  {
+    "path": "img/rosenheim/SG2_V_Reiherente_m.jpg",
+    "location": "rosenheim",
+    "name": "Reiherente",
+    "gender": "m",
+    "genderText": "männlich",
+    "category": "Entenvögel",
+    "distractors": [
+      "Mittelsäger",
+      "Tafelente",
+      "Löffelente"
+    ],
+    "wikiUrl": "https://de.wikipedia.org/wiki/Reiherente"
+  },
+  {
+    "path": "img/rosenheim/SG2_V_Ringeltaube.jpg",
+    "location": "rosenheim",
+    "name": "Ringeltaube",
+    "gender": null,
+    "genderText": null,
+    "category": "Tauben",
+    "distractors": [
+      "Turteltaube",
+      "Türkentaube",
+      "Hohltaube"
+    ],
+    "wikiUrl": "https://de.wikipedia.org/wiki/Ringeltaube"
+  },
+  {
+    "path": "img/rosenheim/SG2_V_Rohrweihe.jpg",
+    "location": "rosenheim",
+    "name": "Rohrweihe",
+    "gender": null,
+    "genderText": null,
+    "category": "Greifvögel",
+    "distractors": [
+      "Mäusebussard",
+      "Turmfalke",
+      "Raufußbussard"
+    ],
+    "wikiUrl": "https://de.wikipedia.org/wiki/Rohrweihe"
+  },
+  {
+    "path": "img/rosenheim/SG2_V_Rotmilan.jpg",
+    "location": "rosenheim",
+    "name": "Rotmilan",
+    "gender": null,
+    "genderText": null,
+    "category": "Greifvögel",
+    "distractors": [
+      "Schwarzmilan",
+      "Mäusebussard",
+      "Steinadler"
+    ],
+    "wikiUrl": "https://de.wikipedia.org/wiki/Rotmilan"
+  },
+  {
+    "path": "img/rosenheim/SG2_V_Schneehuhn.jpg",
+    "location": "rosenheim",
+    "name": "Schneehuhn",
+    "gender": null,
+    "genderText": null,
+    "category": "Hühnervögel",
+    "distractors": [
+      "Auerhahn",
+      "Fasan",
+      "Steinhuhn"
+    ],
+    "wikiUrl": "https://de.wikipedia.org/wiki/Schneehuhn"
+  },
+  {
+    "path": "img/rosenheim/SG2_V_Schwarzmilan.jpg",
+    "location": "rosenheim",
+    "name": "Schwarzmilan",
+    "gender": null,
+    "genderText": null,
+    "category": "Greifvögel",
+    "distractors": [
+      "Steinadler",
+      "Habicht",
+      "Mäusebussard"
+    ],
+    "wikiUrl": "https://de.wikipedia.org/wiki/Schwarzmilan"
+  },
+  {
+    "path": "img/rosenheim/SG2_V_Sperber_m (2).jpg",
+    "location": "rosenheim",
+    "name": "Sperber",
+    "gender": "m",
+    "genderText": "männlich",
+    "category": "Greifvögel",
+    "distractors": [
+      "Steinadler",
+      "Raufußbussard",
+      "Habicht"
+    ],
+    "wikiUrl": "https://de.wikipedia.org/wiki/Sperber"
+  },
+  {
+    "path": "img/rosenheim/SG2_V_Sperber_m.jpg",
+    "location": "rosenheim",
+    "name": "Sperber",
+    "gender": "m",
+    "genderText": "männlich",
+    "category": "Greifvögel",
+    "distractors": [
+      "Mäusebussard",
+      "Rotmilan",
+      "Steinadler"
+    ],
+    "wikiUrl": "https://de.wikipedia.org/wiki/Sperber"
+  },
+  {
+    "path": "img/rosenheim/SG2_V_Sperber_w.jpg",
+    "location": "rosenheim",
+    "name": "Sperber",
+    "gender": "w",
+    "genderText": "weiblich",
+    "category": "Greifvögel",
+    "distractors": [
+      "Steinadler",
+      "Baumfalke",
+      "Rotmilan"
+    ],
+    "wikiUrl": "https://de.wikipedia.org/wiki/Sperber"
+  },
+  {
+    "path": "img/rosenheim/SG2_V_Steinadler.jpg",
+    "location": "rosenheim",
+    "name": "Steinadler",
+    "gender": null,
+    "genderText": null,
+    "category": "Greifvögel",
+    "distractors": [
+      "Sperber",
+      "Baumfalke",
+      "Schwarzmilan"
+    ],
+    "wikiUrl": "https://de.wikipedia.org/wiki/Steinadler"
+  },
+  {
+    "path": "img/rosenheim/SG2_V_Stockenten.jpg",
+    "location": "rosenheim",
+    "name": "Stockenten",
+    "gender": null,
+    "genderText": null,
+    "category": "Entenvögel",
+    "distractors": [
+      "Reiherente",
+      "Gans",
+      "Gänsesäger"
+    ],
+    "wikiUrl": "https://de.wikipedia.org/wiki/Stockenten"
+  },
+  {
+    "path": "img/rosenheim/SG2_V_Turmfalke.jpg",
+    "location": "rosenheim",
+    "name": "Turmfalke",
+    "gender": null,
+    "genderText": null,
+    "category": "Greifvögel",
+    "distractors": [
+      "Habicht",
+      "Baumfalke",
+      "Habicht juv"
+    ],
+    "wikiUrl": "https://de.wikipedia.org/wiki/Turmfalke"
+  },
+  {
+    "path": "img/rosenheim/SG2_V_Turteltaube.jpg",
+    "location": "rosenheim",
+    "name": "Turteltaube",
+    "gender": null,
+    "genderText": null,
+    "category": "Tauben",
+    "distractors": [
+      "Hohltaube",
+      "Türkentaube",
+      "Ringeltaube"
+    ],
+    "wikiUrl": "https://de.wikipedia.org/wiki/Turteltaube"
+  },
+  {
+    "path": "img/rosenheim/SG2_V_Türkentaube.jpg",
+    "location": "rosenheim",
+    "name": "Türkentaube",
+    "gender": null,
+    "genderText": null,
+    "category": "Tauben",
+    "distractors": [
+      "Hohltaube",
+      "Turteltaube",
+      "Ringeltaube"
+    ],
+    "wikiUrl": "https://de.wikipedia.org/wiki/T%C3%BCrkentaube"
+  },
+  {
+    "path": "img/rosenheim/SG2_V_Türkentaube_1.jpg",
+    "location": "rosenheim",
+    "name": "Türkentaube",
+    "gender": null,
+    "genderText": null,
+    "category": "Tauben",
+    "distractors": [
+      "Turteltaube",
+      "Ringeltaube",
+      "Hohltaube"
+    ],
+    "wikiUrl": "https://de.wikipedia.org/wiki/T%C3%BCrkentaube"
+  },
+  {
+    "path": "img/rosenheim/SG2_V_Wachtel.jpg",
+    "location": "rosenheim",
+    "name": "Wachtel",
+    "gender": null,
+    "genderText": null,
+    "category": "Hühnervögel",
+    "distractors": [
+      "Schneehuhn",
+      "Auerhahn",
+      "Steinhuhn"
+    ],
+    "wikiUrl": "https://de.wikipedia.org/wiki/Wachtel"
+  },
+  {
+    "path": "img/rosenheim/SG2_V_Waldschnepfe.jpg",
+    "location": "rosenheim",
+    "name": "Waldschnepfe",
+    "gender": null,
+    "genderText": null,
+    "category": "Watvögel",
+    "distractors": [
+      "Kiebitz",
+      "Großer Brachvogel",
+      "Bekassine"
+    ],
+    "wikiUrl": "https://de.wikipedia.org/wiki/Waldschnepfe"
+  },
+  {
+    "path": "img/rosenheim/SG2_V_Wanderfalke.jpg",
+    "location": "rosenheim",
+    "name": "Wanderfalke",
+    "gender": null,
+    "genderText": null,
+    "category": "Greifvögel",
+    "distractors": [
+      "Rotmilan",
+      "Baumfalke",
+      "Schwarzmilan"
+    ],
+    "wikiUrl": "https://de.wikipedia.org/wiki/Wanderfalke"
+  },
+  {
+    "path": "img/rosenheim/SG2_V_Zwergsäger.jpg",
+    "location": "rosenheim",
+    "name": "Zwergsäger",
+    "gender": null,
+    "genderText": null,
+    "category": "Entenvögel",
+    "distractors": [
+      "Tafelente",
+      "Krickente und Löffelente",
+      "Pfeifente"
+    ],
+    "wikiUrl": "https://de.wikipedia.org/wiki/Zwergs%C3%A4ger"
+  },
+  {
+    "path": "img/rosenheim/SG2_V_Zwergtaucher.jpg",
+    "location": "rosenheim",
+    "name": "Zwergtaucher",
+    "gender": null,
+    "genderText": null,
+    "category": "Wasservögel",
+    "distractors": [
+      "Blässhuhn",
+      "Lachmöwe",
+      "Grünfüßiges Teichhuhn"
+    ],
+    "wikiUrl": "https://de.wikipedia.org/wiki/Zwergtaucher"
+  },
+  {
+    "path": "img/rosenheim/SG6_S_Biber.jpg",
+    "location": "rosenheim",
+    "name": "Biber",
+    "gender": null,
+    "genderText": null,
+    "category": "Nagetiere und Insektenfresser",
+    "distractors": [
+      "Spitzmaus",
+      "Murmeltier",
+      "Siebenschläfer"
+    ],
+    "wikiUrl": "https://de.wikipedia.org/wiki/Biber"
+  },
+  {
+    "path": "img/rosenheim/SG6_S_Bisam.jpg",
+    "location": "rosenheim",
+    "name": "Bisam",
+    "gender": null,
+    "genderText": null,
+    "category": "Nagetiere und Insektenfresser",
+    "distractors": [
+      "Eichhörnchen",
+      "Murmeltier",
+      "Siebenschläfer"
+    ],
+    "wikiUrl": "https://de.wikipedia.org/wiki/Bisam"
+  },
+  {
+    "path": "img/rosenheim/SG6_S_Maulwurf.jpg",
+    "location": "rosenheim",
+    "name": "Maulwurf",
+    "gender": null,
+    "genderText": null,
+    "category": "Nagetiere und Insektenfresser",
+    "distractors": [
+      "Bisam",
+      "Biber",
+      "Spitzmaus"
+    ],
+    "wikiUrl": "https://de.wikipedia.org/wiki/Maulwurf"
+  },
+  {
+    "path": "img/rosenheim/SG6_S_Schneehase.jpg",
+    "location": "rosenheim",
+    "name": "Schneehase",
+    "gender": null,
+    "genderText": null,
+    "category": "Hasenartige",
+    "distractors": [
+      "Zwergsäger",
+      "Stockenten",
+      "Pfeifente"
+    ],
+    "wikiUrl": "https://de.wikipedia.org/wiki/Schneehase"
+  },
+  {
+    "path": "img/rosenheim/SG6_S_Siebenschläfer.jpg",
+    "location": "rosenheim",
+    "name": "Siebenschläfer",
+    "gender": null,
+    "genderText": null,
+    "category": "Nagetiere und Insektenfresser",
+    "distractors": [
+      "Murmeltier",
+      "Eichhörnchen",
+      "Spitzmaus"
+    ],
+    "wikiUrl": "https://de.wikipedia.org/wiki/Siebenschl%C3%A4fer"
+  },
+  {
+    "path": "img/rosenheim/SG6_S_Spitzmaus.jpg",
+    "location": "rosenheim",
+    "name": "Spitzmaus",
+    "gender": null,
+    "genderText": null,
+    "category": "Nagetiere und Insektenfresser",
+    "distractors": [
+      "Bisam",
+      "Murmeltier",
+      "Maulwurf"
+    ],
+    "wikiUrl": "https://de.wikipedia.org/wiki/Spitzmaus"
+  },
+  {
+    "path": "img/rosenheim/SG6_V Eisvogel.jpg",
+    "location": "rosenheim",
+    "name": "Eisvogel",
+    "gender": null,
+    "genderText": null,
+    "category": "Singvögel",
+    "distractors": [
+      "Amsel",
+      "Wasseramsel",
+      "Fichtenkreusschnabel"
+    ],
+    "wikiUrl": "https://de.wikipedia.org/wiki/Eisvogel"
+  },
+  {
+    "path": "img/rosenheim/SG6_V_Amsel.jpg",
+    "location": "rosenheim",
+    "name": "Amsel",
+    "gender": null,
+    "genderText": null,
+    "category": "Singvögel",
+    "distractors": [
+      "Kuckuck",
+      "Wiedehopf",
+      "Star"
+    ],
+    "wikiUrl": "https://de.wikipedia.org/wiki/Amsel"
+  },
+  {
+    "path": "img/rosenheim/SG6_V_Bachstelze.jpg",
+    "location": "rosenheim",
+    "name": "Bachstelze",
+    "gender": null,
+    "genderText": null,
+    "category": "Singvögel",
+    "distractors": [
+      "Eisvogel",
+      "Fichtenkreusschnabel",
+      "Neuntöter"
+    ],
+    "wikiUrl": "https://de.wikipedia.org/wiki/Bachstelze"
+  },
+  {
+    "path": "img/rosenheim/SG6_V_Bekassine.jpg",
+    "location": "rosenheim",
+    "name": "Bekassine",
+    "gender": null,
+    "genderText": null,
+    "category": "Watvögel",
+    "distractors": [
+      "Kiebitz",
+      "Großer Brachvogel",
+      "Waldschnepfe"
+    ],
+    "wikiUrl": "https://de.wikipedia.org/wiki/Bekassine"
+  },
+  {
+    "path": "img/rosenheim/SG6_V_Buntspecht.jpg",
+    "location": "rosenheim",
+    "name": "Buntspecht",
+    "gender": null,
+    "genderText": null,
+    "category": "Spechte",
+    "distractors": [
+      "Schwarzspecht",
+      "Grünspecht",
+      "Grauspecht"
+    ],
+    "wikiUrl": "https://de.wikipedia.org/wiki/Buntspecht"
+  },
+  {
+    "path": "img/rosenheim/SG6_V_Dohle.jpg",
+    "location": "rosenheim",
+    "name": "Dohle",
+    "gender": null,
+    "genderText": null,
+    "category": "Rabenvögel",
+    "distractors": [
+      "Rabenkrähe",
+      "Nebelkrähe",
+      "Tannenhäher"
+    ],
+    "wikiUrl": "https://de.wikipedia.org/wiki/Dohle"
+  },
+  {
+    "path": "img/rosenheim/SG6_V_Drossel.jpg",
+    "location": "rosenheim",
+    "name": "Drossel",
+    "gender": null,
+    "genderText": null,
+    "category": "Singvögel",
+    "distractors": [
+      "Raubwürger",
+      "Wiedehopf",
+      "Bachstelze"
+    ],
+    "wikiUrl": "https://de.wikipedia.org/wiki/Drossel"
+  },
+  {
+    "path": "img/rosenheim/SG6_V_Fichtenkreusschnabel.jpg",
+    "location": "rosenheim",
+    "name": "Fichtenkreusschnabel",
+    "gender": null,
+    "genderText": null,
+    "category": "Singvögel",
+    "distractors": [
+      "Bachstelze",
+      "Star",
+      "Singdrossel"
+    ],
+    "wikiUrl": "https://de.wikipedia.org/wiki/Fichtenkreusschnabel"
+  },
+  {
+    "path": "img/rosenheim/SG6_V_Fichtenkreuzschnabel.jpg",
+    "location": "rosenheim",
+    "name": "Fichtenkreuzschnabel",
+    "gender": null,
+    "genderText": null,
+    "category": "Singvögel",
+    "distractors": [
+      "Wasseramsel",
+      "Drossel",
+      "Neuntöter"
+    ],
+    "wikiUrl": "https://de.wikipedia.org/wiki/Fichtenkreuzschnabel"
+  },
+  {
+    "path": "img/rosenheim/SG6_V_Großer_Brachvogel.jpg",
+    "location": "rosenheim",
+    "name": "Großer Brachvogel",
+    "gender": null,
+    "genderText": null,
+    "category": "Watvögel",
+    "distractors": [
+      "Waldschnepfe",
+      "Kiebitz",
+      "Bekassine"
+    ],
+    "wikiUrl": "https://de.wikipedia.org/wiki/Gro%C3%9Fer_Brachvogel"
+  },
+  {
+    "path": "img/rosenheim/SG6_V_Grünspecht.jpg",
+    "location": "rosenheim",
+    "name": "Grünspecht",
+    "gender": null,
+    "genderText": null,
+    "category": "Spechte",
+    "distractors": [
+      "Buntspecht",
+      "Grauspecht",
+      "Schwarzspecht"
+    ],
+    "wikiUrl": "https://de.wikipedia.org/wiki/Gr%C3%BCnspecht"
+  },
+  {
+    "path": "img/rosenheim/SG6_V_Kiebitz.jpg",
+    "location": "rosenheim",
+    "name": "Kiebitz",
+    "gender": null,
+    "genderText": null,
+    "category": "Watvögel",
+    "distractors": [
+      "Großer Brachvogel",
+      "Bekassine",
+      "Waldschnepfe"
+    ],
+    "wikiUrl": "https://de.wikipedia.org/wiki/Kiebitz"
+  },
+  {
+    "path": "img/rosenheim/SG6_V_Kuckuck (2).jpg",
+    "location": "rosenheim",
+    "name": "Kuckuck",
+    "gender": null,
+    "genderText": null,
+    "category": "Singvögel",
+    "distractors": [
+      "Wacholderdrossel",
+      "Pirol",
+      "Wasseramsel"
+    ],
+    "wikiUrl": "https://de.wikipedia.org/wiki/Kuckuck"
+  },
+  {
+    "path": "img/rosenheim/SG6_V_Kuckuck.jpg",
+    "location": "rosenheim",
+    "name": "Kuckuck",
+    "gender": null,
+    "genderText": null,
+    "category": "Singvögel",
+    "distractors": [
+      "Neuntöter",
+      "Wiedehopf",
+      "Eisvogel"
+    ],
+    "wikiUrl": "https://de.wikipedia.org/wiki/Kuckuck"
+  },
+  {
+    "path": "img/rosenheim/SG6_V_Neuntöter.jpg",
+    "location": "rosenheim",
+    "name": "Neuntöter",
+    "gender": null,
+    "genderText": null,
+    "category": "Singvögel",
+    "distractors": [
+      "Pirol",
+      "Star",
+      "Raubwürger"
+    ],
+    "wikiUrl": "https://de.wikipedia.org/wiki/Neunt%C3%B6ter"
+  },
+  {
+    "path": "img/rosenheim/SG6_V_Raubwürger.jpg",
+    "location": "rosenheim",
+    "name": "Raubwürger",
+    "gender": null,
+    "genderText": null,
+    "category": "Singvögel",
+    "distractors": [
+      "Fichtenkreusschnabel",
+      "Wacholderdrossel",
+      "Bachstelze"
+    ],
+    "wikiUrl": "https://de.wikipedia.org/wiki/Raubw%C3%BCrger"
+  },
+  {
+    "path": "img/rosenheim/SG6_V_Saatkrähe.jpg",
+    "location": "rosenheim",
+    "name": "Saatkrähe",
+    "gender": null,
+    "genderText": null,
+    "category": "Rabenvögel",
+    "distractors": [
+      "Elster",
+      "Eichelhäher",
+      "Tannenhäher"
+    ],
+    "wikiUrl": "https://de.wikipedia.org/wiki/Saatkr%C3%A4he"
+  },
+  {
+    "path": "img/rosenheim/SG6_V_Schleiereule.jpg",
+    "location": "rosenheim",
+    "name": "Schleiereule",
+    "gender": null,
+    "genderText": null,
+    "category": "Eulen",
+    "distractors": [
+      "Sumpfohreule",
+      "Steinkauz",
+      "Waldohreule"
+    ],
+    "wikiUrl": "https://de.wikipedia.org/wiki/Schleiereule"
+  },
+  {
+    "path": "img/rosenheim/SG6_V_Star.jpg",
+    "location": "rosenheim",
+    "name": "Star",
+    "gender": null,
+    "genderText": null,
+    "category": "Singvögel",
+    "distractors": [
+      "Eisvogel",
+      "Fichtenkreusschnabel",
+      "Wasseramsel"
+    ],
+    "wikiUrl": "https://de.wikipedia.org/wiki/Star"
+  },
+  {
+    "path": "img/rosenheim/SG6_V_Steinhuhn.jpg",
+    "location": "rosenheim",
+    "name": "Steinhuhn",
+    "gender": null,
+    "genderText": null,
+    "category": "Hühnervögel",
+    "distractors": [
+      "Rebhuhn",
+      "Wachtel",
+      "Fasan"
+    ],
+    "wikiUrl": "https://de.wikipedia.org/wiki/Steinhuhn"
+  },
+  {
+    "path": "img/rosenheim/SG6_V_Steinkauz.jpg",
+    "location": "rosenheim",
+    "name": "Steinkauz",
+    "gender": null,
+    "genderText": null,
+    "category": "Eulen",
+    "distractors": [
+      "Uhu",
+      "Schleiereule",
+      "Sumpfohreule"
+    ],
+    "wikiUrl": "https://de.wikipedia.org/wiki/Steinkauz"
+  },
+  {
+    "path": "img/rosenheim/SG6_V_Sumpfohreule.jpg",
+    "location": "rosenheim",
+    "name": "Sumpfohreule",
+    "gender": null,
+    "genderText": null,
+    "category": "Eulen",
+    "distractors": [
+      "Ziegenmelker",
+      "Waldkauz",
+      "Schleiereule"
+    ],
+    "wikiUrl": "https://de.wikipedia.org/wiki/Sumpfohreule"
+  },
+  {
+    "path": "img/rosenheim/SG6_V_Tannenhäher.jpg",
+    "location": "rosenheim",
+    "name": "Tannenhäher",
+    "gender": null,
+    "genderText": null,
+    "category": "Rabenvögel",
+    "distractors": [
+      "Rabenkrähe",
+      "Elster",
+      "Nebelkrähe"
+    ],
+    "wikiUrl": "https://de.wikipedia.org/wiki/Tannenh%C3%A4her"
+  },
+  {
+    "path": "img/rosenheim/SG6_V_Wacholderdrossel.jpg",
+    "location": "rosenheim",
+    "name": "Wacholderdrossel",
+    "gender": null,
+    "genderText": null,
+    "category": "Singvögel",
+    "distractors": [
+      "Wasseramsel",
+      "Amsel",
+      "Raubwürger"
+    ],
+    "wikiUrl": "https://de.wikipedia.org/wiki/Wacholderdrossel"
+  },
+  {
+    "path": "img/rosenheim/SG6_V_Waldkauz.jpg",
+    "location": "rosenheim",
+    "name": "Waldkauz",
+    "gender": null,
+    "genderText": null,
+    "category": "Eulen",
+    "distractors": [
+      "Ziegenmelker",
+      "Waldohreule",
+      "Uhu"
+    ],
+    "wikiUrl": "https://de.wikipedia.org/wiki/Waldkauz"
+  },
+  {
+    "path": "img/rosenheim/SG6_V_Waldohreule (2).jpg",
+    "location": "rosenheim",
+    "name": "Waldohreule",
+    "gender": null,
+    "genderText": null,
+    "category": "Eulen",
+    "distractors": [
+      "Steinkauz",
+      "Ziegenmelker",
+      "Schleiereule"
+    ],
+    "wikiUrl": "https://de.wikipedia.org/wiki/Waldohreule"
+  },
+  {
+    "path": "img/rosenheim/SG6_V_Waldohreule.jpg",
+    "location": "rosenheim",
+    "name": "Waldohreule",
+    "gender": null,
+    "genderText": null,
+    "category": "Eulen",
+    "distractors": [
+      "Sumpfohreule",
+      "Steinkauz",
+      "Waldkauz"
+    ],
+    "wikiUrl": "https://de.wikipedia.org/wiki/Waldohreule"
+  },
+  {
+    "path": "img/rosenheim/SG6_V_Wasseramsel.jpg",
+    "location": "rosenheim",
+    "name": "Wasseramsel",
+    "gender": null,
+    "genderText": null,
+    "category": "Singvögel",
+    "distractors": [
+      "Kuckuck",
+      "Drossel",
+      "Wiedehopf"
+    ],
+    "wikiUrl": "https://de.wikipedia.org/wiki/Wasseramsel"
+  },
+  {
+    "path": "img/rosenheim/SG6_V_Wiedehopf.jpg",
+    "location": "rosenheim",
+    "name": "Wiedehopf",
+    "gender": null,
+    "genderText": null,
+    "category": "Singvögel",
+    "distractors": [
+      "Neuntöter",
+      "Amsel",
+      "Fichtenkreusschnabel"
+    ],
+    "wikiUrl": "https://de.wikipedia.org/wiki/Wiedehopf"
+  }
+]
