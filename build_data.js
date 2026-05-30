@@ -65,9 +65,7 @@ const CATEGORIES = {
   ],
 
   'Marderartige': [
-    'Steinmarder', 'Baummarder', 'Iltis', 'Mauswiesel',
-    'Hermelin (Großes Mauswiesel)', 
-    'Großes Wiesel (Hermelin) Winter', 'Großes Wiesel (Hermelin) Sommer',
+    'Steinmarder', 'Baummarder', 'Iltis', 'Mauswiesel', 'Hermelin',
   ],
 
   'Hasenartige': [
@@ -96,6 +94,17 @@ for (const [cat, animals] of Object.entries(CATEGORIES)) {
   }
 }
 
+// Canonical species names for files that use alternate or seasonal names.
+// Keys are the cleaned filename strings; values are the canonical species name.
+const SPECIES_ALIASES = {
+  'Großes Mauswiesel (Hermelin) Winter': 'Hermelin',
+  'Großes Mauswiesel Sommer':            'Hermelin',
+  'Hermelin (Großes Wiesel)':            'Hermelin',
+  'Hermelin (Großes Mauswiesel)':        'Hermelin',
+  'Hermelin (Sommerfell)':               'Hermelin',
+  'Hermelin (Winterfell)':               'Hermelin',
+};
+
 // ---------------------------------------------------------------------------
 // Filename cleaning + gender extraction
 // ---------------------------------------------------------------------------
@@ -111,6 +120,9 @@ const GENDER_PATTERNS = [
   { re: /\s*\(Hahn\)$/i,     gender: 'm',    text: 'männlich (Hahn)' },
   { re: /\s*\(Henne\)$/i,    gender: 'w',    text: 'weiblich (Henne)' },
   { re: /\s*\(Terzel\)$/i,   gender: 'm',    text: 'männlich (Terzel)' },
+  // Paired male+female in one image
+  { re: / m w$/,             gender: 'paar', text: 'Paar' },
+  { re: / w m$/,             gender: 'paar', text: 'Paar' },
   // Bare trailing " m" / " w" (single letter after space, end of string)
   { re: / w$/,               gender: 'w',    text: 'weiblich' },
   { re: / m$/,               gender: 'm',    text: 'männlich' },
@@ -183,7 +195,8 @@ function buildData() {
 
     for (const file of files) {
       const cleaned = cleanName(file);
-      const { species, gender, genderText } = extractGender(cleaned);
+      const { species: rawSpecies, gender, genderText } = extractGender(cleaned);
+      const species = SPECIES_ALIASES[rawSpecies] ?? rawSpecies;
       entries.push({
         path: `img/${location}/${file}`,
         location,
