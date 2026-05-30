@@ -6,11 +6,6 @@
     "gender": null,
     "genderText": null,
     "category": "Hühnervögel",
-    "distractors": [
-      "Fasan",
-      "Birkhahn",
-      "Rebhuhn"
-    ],
     "wikiUrl": "https://de.wikipedia.org/wiki/Auerhahn"
   },
   {
@@ -20,11 +15,6 @@
     "gender": null,
     "genderText": null,
     "category": "Hühnervögel",
-    "distractors": [
-      "Wachtel",
-      "Birkhahn",
-      "Rebhuhn"
-    ],
     "wikiUrl": "https://de.wikipedia.org/wiki/Auerhahn"
   },
   {
@@ -34,11 +24,6 @@
     "gender": null,
     "genderText": null,
     "category": "Greifvögel",
-    "distractors": [
-      "Wanderfalke",
-      "Habicht juv",
-      "Rohrweihe"
-    ],
     "wikiUrl": "https://de.wikipedia.org/wiki/Baumfalke"
   },
   {
@@ -48,11 +33,6 @@
     "gender": null,
     "genderText": null,
     "category": "Greifvögel",
-    "distractors": [
-      "Turmfalke",
-      "Raufußbussard",
-      "Schwarzmilan"
-    ],
     "wikiUrl": "https://de.wikipedia.org/wiki/Baumfalke"
   },
   {
@@ -62,11 +42,6 @@
     "gender": null,
     "genderText": null,
     "category": "Watvögel",
-    "distractors": [
-      "Kiebitz",
-      "Waldschnepfe",
-      "Großer Brachvogel"
-    ],
     "wikiUrl": "https://de.wikipedia.org/wiki/Bekassine"
   },
   {
@@ -76,11 +51,6 @@
     "gender": null,
     "genderText": null,
     "category": "Hühnervögel",
-    "distractors": [
-      "Schneehuhn",
-      "Auerhahn",
-      "Steinhuhn"
-    ],
     "wikiUrl": "https://de.wikipedia.org/wiki/Birkhahn"
   },
   {
@@ -90,11 +60,6 @@
     "gender": null,
     "genderText": null,
     "category": "Wasservögel",
-    "distractors": [
-      "Kormoran",
-      "Graureiher",
-      "Grünfüßiges Teichhuhn"
-    ],
     "wikiUrl": "https://de.wikipedia.org/wiki/Bl%C3%A4sshuhn"
   },
   {
@@ -104,11 +69,6 @@
     "gender": null,
     "genderText": null,
     "category": "Spechte",
-    "distractors": [
-      "Schwarzspecht",
-      "Grauspecht",
-      "Grünspecht"
-    ],
     "wikiUrl": "https://de.wikipedia.org/wiki/Buntspecht"
   },
   {
@@ -118,11 +78,6 @@
     "gender": null,
     "genderText": null,
     "category": "Raubwild",
-    "distractors": [
-      "Kiebitz",
-      "Iltis",
-      "Schneehase"
-    ],
     "wikiUrl": "https://de.wikipedia.org/wiki/Dachs"
   },
   {
@@ -132,11 +87,6 @@
     "gender": null,
     "genderText": null,
     "category": "Raubwild",
-    "distractors": [
-      "Ziegenmelker",
-      "Grünfüßiges Teichhuhn",
-      "Reiherente"
-    ],
     "wikiUrl": "https://de.wikipedia.org/wiki/Dachs"
   },
   {
@@ -146,11 +96,6 @@
     "gender": null,
     "genderText": null,
     "category": "Rabenvögel",
-    "distractors": [
-      "Rabenkrähe",
-      "Eichelhäher",
-      "Elster"
-    ],
     "wikiUrl": "https://de.wikipedia.org/wiki/Dohle"
   },
   {
@@ -160,11 +105,6 @@
     "gender": null,
     "genderText": null,
     "category": "Rabenvögel",
-    "distractors": [
-      "Saatkrähe",
-      "Tannenhäher",
-      "Rabenkrähe"
-    ],
     "wikiUrl": "https://de.wikipedia.org/wiki/Eichelh%C3%A4her"
   },
   {
@@ -174,11 +114,6 @@
     "gender": null,
     "genderText": null,
     "category": "Rabenvögel",
-    "distractors": [
-      "Saatkrähe",
-      "Nebelkrähe",
-      "Tannenhäher"
-    ],
     "wikiUrl": "https://de.wikipedia.org/wiki/Eichelh%C3%A4her"
   },
   {
@@ -188,11 +123,6 @@
     "gender": null,
     "genderText": null,
     "category": "Rabenvögel",
-    "distractors": [
-      "Elster",
-      "Nebelkrähe",
-      "Rabenkrähe"
-    ],
     "wikiUrl": "https://de.wikipedia.org/wiki/Eichelh%C3%A4her"
   },
   {
@@ -202,11 +132,6 @@
     "gender": null,
     "genderText": null,
     "category": "Nagetiere und Insektenfresser",
-    "distractors": [
-      "Biber",
-      "Maulwurf",
-      "Spitzmaus"
-    ],
     "wikiUrl": "https://de.wikipedia.org/wiki/Eichh%C3%B6rnchen"
   },
   {
@@ -216,11 +141,6 @@
     "gender": null,
     "genderText": null,
     "category": "Singvögel",
-    "distractors": [
-      "Singdrossel",
-      "Wasseramsel",
-      "Drossel"
-    ],
     "wikiUrl": "https://de.wikipedia.org/wiki/Eisvogel"
   },
   {
@@ -230,11 +150,6 @@
     "gender": null,
     "genderText": null,
     "category": "Singvögel",
-    "distractors": [
-      "Kuckuck",
-      "Wiedehopf",
-      "Fichtenkreuzschnabel"
-    ],
     "wikiUrl": "https://de.wikipedia.org/wiki/Eisvogel"
   },
   {
@@ -244,11 +159,6 @@
     "gender": "m",
     "genderText": "männlich (Hahn)",
     "category": "Hühnervögel",
-    "distractors": [
-      "Auerhahn",
-      "Birkhahn",
-      "Schneehuhn"
-    ],
     "wikiUrl": "https://de.wikipedia.org/wiki/Fasan"
   },
   {
@@ -258,11 +168,6 @@
     "gender": null,
     "genderText": null,
     "category": "Spechte",
-    "distractors": [
-      "Buntspecht",
-      "Grünspecht",
-      "Schwarzspecht"
-    ],
     "wikiUrl": "https://de.wikipedia.org/wiki/Grauspecht"
   },
   {
@@ -272,11 +177,6 @@
     "gender": null,
     "genderText": null,
     "category": "Spechte",
-    "distractors": [
-      "Grauspecht",
-      "Buntspecht",
-      "Schwarzspecht"
-    ],
     "wikiUrl": "https://de.wikipedia.org/wiki/Gr%C3%BCnspecht"
   },
   {
@@ -286,11 +186,6 @@
     "gender": null,
     "genderText": null,
     "category": "Greifvögel",
-    "distractors": [
-      "Wanderfalke",
-      "Schwarzmilan",
-      "Habicht juv"
-    ],
     "wikiUrl": "https://de.wikipedia.org/wiki/Habicht"
   },
   {
@@ -300,11 +195,6 @@
     "gender": null,
     "genderText": null,
     "category": "Greifvögel",
-    "distractors": [
-      "Turmfalke",
-      "Rotmilan",
-      "Baumfalke"
-    ],
     "wikiUrl": "https://de.wikipedia.org/wiki/Habicht"
   },
   {
@@ -314,11 +204,6 @@
     "gender": null,
     "genderText": null,
     "category": "Greifvögel",
-    "distractors": [
-      "Raufußbussard",
-      "Schwarzmilan",
-      "Turmfalke"
-    ],
     "wikiUrl": "https://de.wikipedia.org/wiki/Habicht"
   },
   {
@@ -328,11 +213,6 @@
     "gender": null,
     "genderText": null,
     "category": "Hühnervögel",
-    "distractors": [
-      "Rebhuhn",
-      "Steinhuhn",
-      "Schneehuhn"
-    ],
     "wikiUrl": "https://de.wikipedia.org/wiki/Haselhuhn"
   },
   {
@@ -342,11 +222,6 @@
     "gender": null,
     "genderText": null,
     "category": "Wasservögel",
-    "distractors": [
-      "Blässhuhn",
-      "Lachmöwe",
-      "Grünfüßiges Teichhuhn"
-    ],
     "wikiUrl": "https://de.wikipedia.org/wiki/Haubentaucher"
   },
   {
@@ -356,11 +231,6 @@
     "gender": null,
     "genderText": null,
     "category": "Wasservögel",
-    "distractors": [
-      "Grünfüßiges Teichhuhn",
-      "Bläßhuhn",
-      "Lachmöwe"
-    ],
     "wikiUrl": "https://de.wikipedia.org/wiki/Haubentaucher"
   },
   {
@@ -370,11 +240,6 @@
     "gender": null,
     "genderText": null,
     "category": "Wasservögel",
-    "distractors": [
-      "Kormoran",
-      "Graureiher",
-      "Blässhuhn"
-    ],
     "wikiUrl": "https://de.wikipedia.org/wiki/Haubentaucher"
   },
   {
@@ -384,11 +249,6 @@
     "gender": null,
     "genderText": null,
     "category": "Marderartige",
-    "distractors": [
-      "Steinmarder",
-      "Mauswiesel",
-      "Iltis"
-    ],
     "wikiUrl": "https://de.wikipedia.org/wiki/Hermelin"
   },
   {
@@ -398,11 +258,6 @@
     "gender": null,
     "genderText": null,
     "category": "Marderartige",
-    "distractors": [
-      "Steinmarder",
-      "Mauswiesel",
-      "Baummarder"
-    ],
     "wikiUrl": "https://de.wikipedia.org/wiki/Hermelin"
   },
   {
@@ -412,11 +267,6 @@
     "gender": null,
     "genderText": null,
     "category": "Marderartige",
-    "distractors": [
-      "Mauswiesel",
-      "Iltis",
-      "Baummarder"
-    ],
     "wikiUrl": "https://de.wikipedia.org/wiki/Hermelin"
   },
   {
@@ -426,11 +276,6 @@
     "gender": null,
     "genderText": null,
     "category": "Marderartige",
-    "distractors": [
-      "Steinmarder",
-      "Baummarder",
-      "Hermelin"
-    ],
     "wikiUrl": "https://de.wikipedia.org/wiki/Iltis"
   },
   {
@@ -440,11 +285,6 @@
     "gender": null,
     "genderText": null,
     "category": "Watvögel",
-    "distractors": [
-      "Waldschnepfe",
-      "Großer Brachvogel",
-      "Bekassine"
-    ],
     "wikiUrl": "https://de.wikipedia.org/wiki/Kiebitz"
   },
   {
@@ -454,11 +294,6 @@
     "gender": null,
     "genderText": null,
     "category": "Watvögel",
-    "distractors": [
-      "Großer Brachvogel",
-      "Waldschnepfe",
-      "Bekassine"
-    ],
     "wikiUrl": "https://de.wikipedia.org/wiki/Kiebitz"
   },
   {
@@ -468,11 +303,6 @@
     "gender": null,
     "genderText": null,
     "category": "Watvögel",
-    "distractors": [
-      "Bekassine",
-      "Waldschnepfe",
-      "Großer Brachvogel"
-    ],
     "wikiUrl": "https://de.wikipedia.org/wiki/Kiebitz"
   },
   {
@@ -482,11 +312,6 @@
     "gender": "m",
     "genderText": "männlich (Erpel)",
     "category": "Entenvögel",
-    "distractors": [
-      "Eiderente",
-      "Löffelente",
-      "Zwergsäger"
-    ],
     "wikiUrl": "https://de.wikipedia.org/wiki/Krickente"
   },
   {
@@ -496,11 +321,6 @@
     "gender": "m",
     "genderText": "männlich (Erpel)",
     "category": "Entenvögel",
-    "distractors": [
-      "Brandgans",
-      "Tafelente",
-      "Gänsesäger"
-    ],
     "wikiUrl": "https://de.wikipedia.org/wiki/Krickente"
   },
   {
@@ -510,11 +330,6 @@
     "gender": "w",
     "genderText": "weiblich",
     "category": "Entenvögel",
-    "distractors": [
-      "Eiderente",
-      "Gans",
-      "Zwergsäger"
-    ],
     "wikiUrl": "https://de.wikipedia.org/wiki/Krickente"
   },
   {
@@ -524,11 +339,6 @@
     "gender": "w",
     "genderText": "weiblich",
     "category": "Entenvögel",
-    "distractors": [
-      "Löffelente",
-      "Pfeifente",
-      "Knäckente"
-    ],
     "wikiUrl": "https://de.wikipedia.org/wiki/Krickente"
   },
   {
@@ -538,11 +348,6 @@
     "gender": "paar",
     "genderText": "Paar",
     "category": "Entenvögel",
-    "distractors": [
-      "Gans",
-      "Zwergsäger",
-      "Stockenten"
-    ],
     "wikiUrl": "https://de.wikipedia.org/wiki/Krickente"
   },
   {
@@ -552,11 +357,6 @@
     "gender": null,
     "genderText": null,
     "category": "Marderartige",
-    "distractors": [
-      "Iltis",
-      "Steinmarder",
-      "Baummarder"
-    ],
     "wikiUrl": "https://de.wikipedia.org/wiki/Mauswiesel"
   },
   {
@@ -566,11 +366,6 @@
     "gender": null,
     "genderText": null,
     "category": "Greifvögel",
-    "distractors": [
-      "Habicht",
-      "Habicht juv",
-      "Wanderfalke"
-    ],
     "wikiUrl": "https://de.wikipedia.org/wiki/M%C3%A4usebussard"
   },
   {
@@ -580,11 +375,6 @@
     "gender": "m",
     "genderText": "männlich (Erpel)",
     "category": "Entenvögel",
-    "distractors": [
-      "Eiderente",
-      "Stockenten",
-      "Knäckente"
-    ],
     "wikiUrl": "https://de.wikipedia.org/wiki/Pfeifente"
   },
   {
@@ -594,11 +384,6 @@
     "gender": "m",
     "genderText": "männlich (Erpel)",
     "category": "Entenvögel",
-    "distractors": [
-      "Zwergsäger",
-      "Eiderente",
-      "Stockente"
-    ],
     "wikiUrl": "https://de.wikipedia.org/wiki/Pfeifente"
   },
   {
@@ -608,11 +393,6 @@
     "gender": null,
     "genderText": null,
     "category": "Entenvögel",
-    "distractors": [
-      "Knäckente",
-      "Löffelente",
-      "Stockente"
-    ],
     "wikiUrl": "https://de.wikipedia.org/wiki/Pfeifente"
   },
   {
@@ -622,11 +402,6 @@
     "gender": null,
     "genderText": null,
     "category": "Singvögel",
-    "distractors": [
-      "Wacholderdrossel",
-      "Amsel",
-      "Eisvogel"
-    ],
     "wikiUrl": "https://de.wikipedia.org/wiki/Pirol"
   },
   {
@@ -636,11 +411,6 @@
     "gender": null,
     "genderText": null,
     "category": "Rabenvögel",
-    "distractors": [
-      "Elster",
-      "Tannenhäher",
-      "Eichelhäher"
-    ],
     "wikiUrl": "https://de.wikipedia.org/wiki/Rabenkr%C3%A4he"
   },
   {
@@ -650,11 +420,6 @@
     "gender": null,
     "genderText": null,
     "category": "Hühnervögel",
-    "distractors": [
-      "Schneehuhn",
-      "Wachtel",
-      "Steinhuhn"
-    ],
     "wikiUrl": "https://de.wikipedia.org/wiki/Rebhuhn"
   },
   {
@@ -664,11 +429,6 @@
     "gender": null,
     "genderText": null,
     "category": "Entenvögel",
-    "distractors": [
-      "Stockente",
-      "Tafelente",
-      "Gänsesäger"
-    ],
     "wikiUrl": "https://de.wikipedia.org/wiki/Reiherente"
   },
   {
@@ -678,11 +438,6 @@
     "gender": null,
     "genderText": null,
     "category": "Tauben",
-    "distractors": [
-      "Türkentaube",
-      "Turteltaube",
-      "Hohltaube"
-    ],
     "wikiUrl": "https://de.wikipedia.org/wiki/Ringeltaube"
   },
   {
@@ -692,11 +447,6 @@
     "gender": null,
     "genderText": null,
     "category": "Tauben",
-    "distractors": [
-      "Hohltaube",
-      "Turteltaube",
-      "Türkentaube"
-    ],
     "wikiUrl": "https://de.wikipedia.org/wiki/Ringeltaube"
   },
   {
@@ -706,11 +456,6 @@
     "gender": null,
     "genderText": null,
     "category": "Raubwild",
-    "distractors": [
-      "Birkhahn",
-      "Elster",
-      "Stockenten"
-    ],
     "wikiUrl": "https://de.wikipedia.org/wiki/Rotfuchs"
   },
   {
@@ -720,11 +465,6 @@
     "gender": null,
     "genderText": null,
     "category": "Raubwild",
-    "distractors": [
-      "Gans",
-      "Kiebitz",
-      "Krickente"
-    ],
     "wikiUrl": "https://de.wikipedia.org/wiki/Rotfuchs"
   },
   {
@@ -734,11 +474,6 @@
     "gender": null,
     "genderText": null,
     "category": "Raubwild",
-    "distractors": [
-      "Waldohreule",
-      "Ringeltaube",
-      "Löffelente"
-    ],
     "wikiUrl": "https://de.wikipedia.org/wiki/Rotfuchs"
   },
   {
@@ -748,11 +483,6 @@
     "gender": null,
     "genderText": null,
     "category": "Raubwild",
-    "distractors": [
-      "Hohltaube",
-      "Stockenten",
-      "Grünfüßiges Teichhuhn"
-    ],
     "wikiUrl": "https://de.wikipedia.org/wiki/Rotfuchs"
   },
   {
@@ -762,11 +492,6 @@
     "gender": null,
     "genderText": null,
     "category": "Rabenvögel",
-    "distractors": [
-      "Dohle",
-      "Elster",
-      "Rabenkrähe"
-    ],
     "wikiUrl": "https://de.wikipedia.org/wiki/Saatkr%C3%A4he"
   },
   {
@@ -776,11 +501,6 @@
     "gender": null,
     "genderText": null,
     "category": "Eulen",
-    "distractors": [
-      "Steinkauz",
-      "Waldohreule",
-      "Uhu"
-    ],
     "wikiUrl": "https://de.wikipedia.org/wiki/Schleiereule"
   },
   {
@@ -790,11 +510,6 @@
     "gender": null,
     "genderText": null,
     "category": "Spechte",
-    "distractors": [
-      "Grauspecht",
-      "Grünspecht",
-      "Buntspecht"
-    ],
     "wikiUrl": "https://de.wikipedia.org/wiki/Schwarzspecht"
   },
   {
@@ -804,11 +519,6 @@
     "gender": null,
     "genderText": null,
     "category": "Singvögel",
-    "distractors": [
-      "Kuckuck",
-      "Drossel",
-      "Wasseramsel"
-    ],
     "wikiUrl": "https://de.wikipedia.org/wiki/Singdrossel"
   },
   {
@@ -818,11 +528,6 @@
     "gender": null,
     "genderText": null,
     "category": "Greifvögel",
-    "distractors": [
-      "Habicht",
-      "Turmfalke",
-      "Raufußbussard"
-    ],
     "wikiUrl": "https://de.wikipedia.org/wiki/Sperber"
   },
   {
@@ -832,11 +537,6 @@
     "gender": null,
     "genderText": null,
     "category": "Eulen",
-    "distractors": [
-      "Schleiereule",
-      "Uhu",
-      "Waldkauz"
-    ],
     "wikiUrl": "https://de.wikipedia.org/wiki/Steinkauz"
   },
   {
@@ -846,11 +546,6 @@
     "gender": null,
     "genderText": null,
     "category": "Marderartige",
-    "distractors": [
-      "Iltis",
-      "Baummarder",
-      "Hermelin"
-    ],
     "wikiUrl": "https://de.wikipedia.org/wiki/Steinmarder"
   },
   {
@@ -860,11 +555,6 @@
     "gender": null,
     "genderText": null,
     "category": "Marderartige",
-    "distractors": [
-      "Iltis",
-      "Hermelin",
-      "Baummarder"
-    ],
     "wikiUrl": "https://de.wikipedia.org/wiki/Steinmarder"
   },
   {
@@ -874,11 +564,6 @@
     "gender": null,
     "genderText": null,
     "category": "Marderartige",
-    "distractors": [
-      "Hermelin",
-      "Mauswiesel",
-      "Iltis"
-    ],
     "wikiUrl": "https://de.wikipedia.org/wiki/Steinmarder"
   },
   {
@@ -888,11 +573,6 @@
     "gender": "paar",
     "genderText": "Paar",
     "category": "Entenvögel",
-    "distractors": [
-      "Knäckente",
-      "Eiderente",
-      "Löffelente"
-    ],
     "wikiUrl": "https://de.wikipedia.org/wiki/Stockente"
   },
   {
@@ -902,11 +582,6 @@
     "gender": "paar",
     "genderText": "Paar",
     "category": "Entenvögel",
-    "distractors": [
-      "Mittelsäger",
-      "Löffelente",
-      "Pfeifente"
-    ],
     "wikiUrl": "https://de.wikipedia.org/wiki/Stockente"
   },
   {
@@ -916,11 +591,6 @@
     "gender": "w",
     "genderText": "weiblich",
     "category": "Entenvögel",
-    "distractors": [
-      "Stockenten",
-      "Mittelsäger",
-      "Gänsesäger"
-    ],
     "wikiUrl": "https://de.wikipedia.org/wiki/Stockente"
   },
   {
@@ -930,11 +600,6 @@
     "gender": "w",
     "genderText": "weiblich",
     "category": "Entenvögel",
-    "distractors": [
-      "Reiherente",
-      "Gänsesäger",
-      "Pfeifente"
-    ],
     "wikiUrl": "https://de.wikipedia.org/wiki/Stockente"
   },
   {
@@ -944,11 +609,6 @@
     "gender": null,
     "genderText": null,
     "category": "Entenvögel",
-    "distractors": [
-      "Pfeifente",
-      "Eiderente",
-      "Zwergsäger"
-    ],
     "wikiUrl": "https://de.wikipedia.org/wiki/Tafelente"
   },
   {
@@ -958,11 +618,6 @@
     "gender": null,
     "genderText": null,
     "category": "Greifvögel",
-    "distractors": [
-      "Habicht",
-      "Schwarzmilan",
-      "Wanderfalke"
-    ],
     "wikiUrl": "https://de.wikipedia.org/wiki/Turmfalke"
   },
   {
@@ -972,11 +627,6 @@
     "gender": null,
     "genderText": null,
     "category": "Greifvögel",
-    "distractors": [
-      "Steinadler",
-      "Baumfalke",
-      "Schwarzmilan"
-    ],
     "wikiUrl": "https://de.wikipedia.org/wiki/Turmfalke"
   },
   {
@@ -986,11 +636,6 @@
     "gender": null,
     "genderText": null,
     "category": "Tauben",
-    "distractors": [
-      "Hohltaube",
-      "Ringeltaube",
-      "Turteltaube"
-    ],
     "wikiUrl": "https://de.wikipedia.org/wiki/T%C3%BCrkentaube"
   },
   {
@@ -1000,11 +645,6 @@
     "gender": null,
     "genderText": null,
     "category": "Tauben",
-    "distractors": [
-      "Hohltaube",
-      "Turteltaube",
-      "Ringeltaube"
-    ],
     "wikiUrl": "https://de.wikipedia.org/wiki/T%C3%BCrkentaube"
   },
   {
@@ -1014,11 +654,6 @@
     "gender": null,
     "genderText": null,
     "category": "Tauben",
-    "distractors": [
-      "Hohltaube",
-      "Ringeltaube",
-      "Turteltaube"
-    ],
     "wikiUrl": "https://de.wikipedia.org/wiki/T%C3%BCrkentaube"
   },
   {
@@ -1028,11 +663,6 @@
     "gender": null,
     "genderText": null,
     "category": "Eulen",
-    "distractors": [
-      "Waldohreule",
-      "Sumpfohreule",
-      "Ziegenmelker"
-    ],
     "wikiUrl": "https://de.wikipedia.org/wiki/Uhu"
   },
   {
@@ -1042,11 +672,6 @@
     "gender": null,
     "genderText": null,
     "category": "Eulen",
-    "distractors": [
-      "Uhu",
-      "Steinkauz",
-      "Sumpfohreule"
-    ],
     "wikiUrl": "https://de.wikipedia.org/wiki/Waldkauz"
   },
   {
@@ -1056,11 +681,6 @@
     "gender": null,
     "genderText": null,
     "category": "Eulen",
-    "distractors": [
-      "Waldohreule",
-      "Ziegenmelker",
-      "Schleiereule"
-    ],
     "wikiUrl": "https://de.wikipedia.org/wiki/Waldkauz"
   },
   {
@@ -1070,11 +690,6 @@
     "gender": null,
     "genderText": null,
     "category": "Eulen",
-    "distractors": [
-      "Ziegenmelker",
-      "Schleiereule",
-      "Uhu"
-    ],
     "wikiUrl": "https://de.wikipedia.org/wiki/Waldkauz"
   },
   {
@@ -1084,11 +699,6 @@
     "gender": null,
     "genderText": null,
     "category": "Watvögel",
-    "distractors": [
-      "Kiebitz",
-      "Großer Brachvogel",
-      "Bekassine"
-    ],
     "wikiUrl": "https://de.wikipedia.org/wiki/Waldschnepfe"
   },
   {
@@ -1098,11 +708,6 @@
     "gender": null,
     "genderText": null,
     "category": "Watvögel",
-    "distractors": [
-      "Kiebitz",
-      "Bekassine",
-      "Großer Brachvogel"
-    ],
     "wikiUrl": "https://de.wikipedia.org/wiki/Waldschnepfe"
   },
   {
@@ -1112,11 +717,6 @@
     "gender": null,
     "genderText": null,
     "category": "Watvögel",
-    "distractors": [
-      "Bekassine",
-      "Großer Brachvogel",
-      "Kiebitz"
-    ],
     "wikiUrl": "https://de.wikipedia.org/wiki/Waldschnepfe"
   },
   {
@@ -1126,11 +726,6 @@
     "gender": null,
     "genderText": null,
     "category": "Greifvögel",
-    "distractors": [
-      "Raufußbussard",
-      "Schwarzmilan",
-      "Turmfalke"
-    ],
     "wikiUrl": "https://de.wikipedia.org/wiki/Wanderfalke"
   },
   {
@@ -1140,11 +735,6 @@
     "gender": null,
     "genderText": null,
     "category": "Eulen",
-    "distractors": [
-      "Waldohreule",
-      "Schleiereule",
-      "Sumpfohreule"
-    ],
     "wikiUrl": "https://de.wikipedia.org/wiki/Ziegenmelker"
   },
   {
@@ -1154,11 +744,6 @@
     "gender": null,
     "genderText": null,
     "category": "Marderartige",
-    "distractors": [
-      "Hermelin",
-      "Steinmarder",
-      "Mauswiesel"
-    ],
     "wikiUrl": "https://de.wikipedia.org/wiki/Baummarder"
   },
   {
@@ -1168,11 +753,6 @@
     "gender": null,
     "genderText": null,
     "category": "Raubwild",
-    "distractors": [
-      "Wacholderdrossel",
-      "Elster",
-      "Reiherente"
-    ],
     "wikiUrl": "https://de.wikipedia.org/wiki/Dachs"
   },
   {
@@ -1182,11 +762,6 @@
     "gender": null,
     "genderText": null,
     "category": "Hasenartige",
-    "distractors": [
-      "Raubwürger",
-      "Fichtenkreuzschnabel",
-      "Bachstelze"
-    ],
     "wikiUrl": "https://de.wikipedia.org/wiki/Feldhase"
   },
   {
@@ -1196,11 +771,6 @@
     "gender": null,
     "genderText": null,
     "category": "Hasenartige",
-    "distractors": [
-      "Wiedehopf",
-      "Bekassine",
-      "Schwarzmilan"
-    ],
     "wikiUrl": "https://de.wikipedia.org/wiki/Feldhase"
   },
   {
@@ -1210,11 +780,6 @@
     "gender": null,
     "genderText": null,
     "category": "Schwarzwild",
-    "distractors": [
-      "Siebenschläfer",
-      "Kiebitz",
-      "Birkhahn"
-    ],
     "wikiUrl": "https://de.wikipedia.org/wiki/Frischling"
   },
   {
@@ -1224,11 +789,6 @@
     "gender": null,
     "genderText": null,
     "category": "Raubwild",
-    "distractors": [
-      "Bachstelze",
-      "Türkentaube",
-      "Steinhuhn"
-    ],
     "wikiUrl": "https://de.wikipedia.org/wiki/Fuchs"
   },
   {
@@ -1238,11 +798,6 @@
     "gender": null,
     "genderText": null,
     "category": "Marderartige",
-    "distractors": [
-      "Steinmarder",
-      "Mauswiesel",
-      "Iltis"
-    ],
     "wikiUrl": "https://de.wikipedia.org/wiki/Hermelin"
   },
   {
@@ -1252,11 +807,6 @@
     "gender": null,
     "genderText": null,
     "category": "Marderartige",
-    "distractors": [
-      "Steinmarder",
-      "Baummarder",
-      "Iltis"
-    ],
     "wikiUrl": "https://de.wikipedia.org/wiki/Hermelin"
   },
   {
@@ -1266,11 +816,6 @@
     "gender": null,
     "genderText": null,
     "category": "Marderartige",
-    "distractors": [
-      "Hermelin",
-      "Mauswiesel",
-      "Steinmarder"
-    ],
     "wikiUrl": "https://de.wikipedia.org/wiki/Iltis"
   },
   {
@@ -1280,11 +825,6 @@
     "gender": null,
     "genderText": null,
     "category": "Hasenartige",
-    "distractors": [
-      "Eisvogel",
-      "Murmeltier",
-      "Elster"
-    ],
     "wikiUrl": "https://de.wikipedia.org/wiki/Kaninchen"
   },
   {
@@ -1294,11 +834,6 @@
     "gender": null,
     "genderText": null,
     "category": "Marderartige",
-    "distractors": [
-      "Steinmarder",
-      "Baummarder",
-      "Hermelin"
-    ],
     "wikiUrl": "https://de.wikipedia.org/wiki/Mauswiesel"
   },
   {
@@ -1308,11 +843,6 @@
     "gender": null,
     "genderText": null,
     "category": "Marderartige",
-    "distractors": [
-      "Iltis",
-      "Hermelin",
-      "Baummarder"
-    ],
     "wikiUrl": "https://de.wikipedia.org/wiki/Mauswiesel"
   },
   {
@@ -1322,11 +852,6 @@
     "gender": null,
     "genderText": null,
     "category": "Nagetiere und Insektenfresser",
-    "distractors": [
-      "Spitzmaus",
-      "Biber",
-      "Eichhörnchen"
-    ],
     "wikiUrl": "https://de.wikipedia.org/wiki/Murmeltier"
   },
   {
@@ -1336,11 +861,6 @@
     "gender": null,
     "genderText": null,
     "category": "Marderartige",
-    "distractors": [
-      "Baummarder",
-      "Hermelin",
-      "Mauswiesel"
-    ],
     "wikiUrl": "https://de.wikipedia.org/wiki/Steinmarder"
   },
   {
@@ -1350,11 +870,6 @@
     "gender": null,
     "genderText": null,
     "category": "Hühnervögel",
-    "distractors": [
-      "Haselhuhn",
-      "Wachtel",
-      "Rebhuhn"
-    ],
     "wikiUrl": "https://de.wikipedia.org/wiki/Auerhahn"
   },
   {
@@ -1364,11 +879,6 @@
     "gender": null,
     "genderText": null,
     "category": "Greifvögel",
-    "distractors": [
-      "Habicht",
-      "Rotmilan",
-      "Schwarzmilan"
-    ],
     "wikiUrl": "https://de.wikipedia.org/wiki/Baumfalke"
   },
   {
@@ -1378,11 +888,6 @@
     "gender": null,
     "genderText": null,
     "category": "Hühnervögel",
-    "distractors": [
-      "Steinhuhn",
-      "Rebhuhn",
-      "Schneehuhn"
-    ],
     "wikiUrl": "https://de.wikipedia.org/wiki/Birkhahn"
   },
   {
@@ -1392,11 +897,6 @@
     "gender": null,
     "genderText": null,
     "category": "Wasservögel",
-    "distractors": [
-      "Lachmöwe",
-      "Graureiher",
-      "Zwergtaucher"
-    ],
     "wikiUrl": "https://de.wikipedia.org/wiki/Bl%C3%A4%C3%9Fhuhn"
   },
   {
@@ -1406,11 +906,6 @@
     "gender": null,
     "genderText": null,
     "category": "Entenvögel",
-    "distractors": [
-      "Zwergsäger",
-      "Stockenten",
-      "Pfeifente"
-    ],
     "wikiUrl": "https://de.wikipedia.org/wiki/Brandgans"
   },
   {
@@ -1420,11 +915,6 @@
     "gender": null,
     "genderText": null,
     "category": "Rabenvögel",
-    "distractors": [
-      "Nebelkrähe",
-      "Dohle",
-      "Rabenkrähe"
-    ],
     "wikiUrl": "https://de.wikipedia.org/wiki/Eichelh%C3%A4her"
   },
   {
@@ -1434,11 +924,6 @@
     "gender": null,
     "genderText": null,
     "category": "Rabenvögel",
-    "distractors": [
-      "Rabenkrähe",
-      "Nebelkrähe",
-      "Tannenhäher"
-    ],
     "wikiUrl": "https://de.wikipedia.org/wiki/Eichelh%C3%A4her"
   },
   {
@@ -1448,11 +933,6 @@
     "gender": null,
     "genderText": null,
     "category": "Entenvögel",
-    "distractors": [
-      "Pfeifente",
-      "Stockenten",
-      "Gans"
-    ],
     "wikiUrl": "https://de.wikipedia.org/wiki/Eiderente"
   },
   {
@@ -1462,11 +942,6 @@
     "gender": null,
     "genderText": null,
     "category": "Rabenvögel",
-    "distractors": [
-      "Dohle",
-      "Saatkrähe",
-      "Rabenkrähe"
-    ],
     "wikiUrl": "https://de.wikipedia.org/wiki/Elster"
   },
   {
@@ -1476,11 +951,6 @@
     "gender": null,
     "genderText": null,
     "category": "Rabenvögel",
-    "distractors": [
-      "Rabenkrähe",
-      "Dohle",
-      "Nebelkrähe"
-    ],
     "wikiUrl": "https://de.wikipedia.org/wiki/Elster"
   },
   {
@@ -1490,11 +960,6 @@
     "gender": null,
     "genderText": null,
     "category": "Hühnervögel",
-    "distractors": [
-      "Birkhahn",
-      "Haselhuhn",
-      "Wachtel"
-    ],
     "wikiUrl": "https://de.wikipedia.org/wiki/Fasan"
   },
   {
@@ -1504,11 +969,6 @@
     "gender": "m",
     "genderText": "männlich",
     "category": "Hühnervögel",
-    "distractors": [
-      "Schneehuhn",
-      "Steinhuhn",
-      "Rebhuhn"
-    ],
     "wikiUrl": "https://de.wikipedia.org/wiki/Fasan"
   },
   {
@@ -1518,11 +978,6 @@
     "gender": "w",
     "genderText": "weiblich",
     "category": "Hühnervögel",
-    "distractors": [
-      "Haselhuhn",
-      "Steinhuhn",
-      "Schneehuhn"
-    ],
     "wikiUrl": "https://de.wikipedia.org/wiki/Fasan"
   },
   {
@@ -1532,11 +987,6 @@
     "gender": null,
     "genderText": null,
     "category": "Entenvögel",
-    "distractors": [
-      "Tafelente",
-      "Gänsesäger",
-      "Stockenten"
-    ],
     "wikiUrl": "https://de.wikipedia.org/wiki/Gans"
   },
   {
@@ -1546,11 +996,6 @@
     "gender": null,
     "genderText": null,
     "category": "Wasservögel",
-    "distractors": [
-      "Zwergtaucher",
-      "Kormoran",
-      "Haubentaucher"
-    ],
     "wikiUrl": "https://de.wikipedia.org/wiki/Graureiher"
   },
   {
@@ -1560,11 +1005,6 @@
     "gender": null,
     "genderText": null,
     "category": "Wasservögel",
-    "distractors": [
-      "Bläßhuhn",
-      "Graureiher",
-      "Lachmöwe"
-    ],
     "wikiUrl": "https://de.wikipedia.org/wiki/Gr%C3%BCnf%C3%BC%C3%9Figes_Teichhuhn"
   },
   {
@@ -1574,11 +1014,6 @@
     "gender": null,
     "genderText": null,
     "category": "Entenvögel",
-    "distractors": [
-      "Gans",
-      "Krickente",
-      "Löffelente"
-    ],
     "wikiUrl": "https://de.wikipedia.org/wiki/G%C3%A4nses%C3%A4ger"
   },
   {
@@ -1588,11 +1023,6 @@
     "gender": null,
     "genderText": null,
     "category": "Greifvögel",
-    "distractors": [
-      "Raufußbussard",
-      "Schwarzmilan",
-      "Habicht juv"
-    ],
     "wikiUrl": "https://de.wikipedia.org/wiki/Habicht"
   },
   {
@@ -1602,11 +1032,6 @@
     "gender": null,
     "genderText": null,
     "category": "Greifvögel",
-    "distractors": [
-      "Rohrweihe",
-      "Mäusebussard",
-      "Schwarzmilan"
-    ],
     "wikiUrl": "https://de.wikipedia.org/wiki/Habicht_juv"
   },
   {
@@ -1616,11 +1041,6 @@
     "gender": null,
     "genderText": null,
     "category": "Hühnervögel",
-    "distractors": [
-      "Steinhuhn",
-      "Birkhahn",
-      "Fasan"
-    ],
     "wikiUrl": "https://de.wikipedia.org/wiki/Haselhuhn"
   },
   {
@@ -1630,11 +1050,6 @@
     "gender": "m",
     "genderText": "männlich",
     "category": "Wasservögel",
-    "distractors": [
-      "Kormoran",
-      "Grünfüßiges Teichhuhn",
-      "Bläßhuhn"
-    ],
     "wikiUrl": "https://de.wikipedia.org/wiki/Haubentaucher"
   },
   {
@@ -1644,11 +1059,6 @@
     "gender": "w",
     "genderText": "weiblich",
     "category": "Wasservögel",
-    "distractors": [
-      "Bläßhuhn",
-      "Blässhuhn",
-      "Zwergtaucher"
-    ],
     "wikiUrl": "https://de.wikipedia.org/wiki/Haubentaucher"
   },
   {
@@ -1658,11 +1068,6 @@
     "gender": null,
     "genderText": null,
     "category": "Tauben",
-    "distractors": [
-      "Turteltaube",
-      "Ringeltaube",
-      "Türkentaube"
-    ],
     "wikiUrl": "https://de.wikipedia.org/wiki/Hohltaube"
   },
   {
@@ -1672,11 +1077,6 @@
     "gender": "m",
     "genderText": "männlich",
     "category": "Entenvögel",
-    "distractors": [
-      "Mittelsäger",
-      "Eiderente",
-      "Brandgans"
-    ],
     "wikiUrl": "https://de.wikipedia.org/wiki/Kn%C3%A4ckente"
   },
   {
@@ -1686,11 +1086,6 @@
     "gender": "w",
     "genderText": "weiblich",
     "category": "Entenvögel",
-    "distractors": [
-      "Stockenten",
-      "Reiherente",
-      "Zwergsäger"
-    ],
     "wikiUrl": "https://de.wikipedia.org/wiki/Kn%C3%A4ckente"
   },
   {
@@ -1700,11 +1095,6 @@
     "gender": null,
     "genderText": null,
     "category": "Wasservögel",
-    "distractors": [
-      "Blässhuhn",
-      "Haubentaucher",
-      "Grünfüßiges Teichhuhn"
-    ],
     "wikiUrl": "https://de.wikipedia.org/wiki/Kormoran"
   },
   {
@@ -1714,11 +1104,6 @@
     "gender": "m",
     "genderText": "männlich",
     "category": "Entenvögel",
-    "distractors": [
-      "Brandgans",
-      "Löffelente",
-      "Mittelsäger"
-    ],
     "wikiUrl": "https://de.wikipedia.org/wiki/Krickente"
   },
   {
@@ -1728,11 +1113,6 @@
     "gender": "w",
     "genderText": "weiblich",
     "category": "Entenvögel",
-    "distractors": [
-      "Tafelente",
-      "Stockente",
-      "Zwergsäger"
-    ],
     "wikiUrl": "https://de.wikipedia.org/wiki/Krickente"
   },
   {
@@ -1742,11 +1122,6 @@
     "gender": null,
     "genderText": null,
     "category": "Wasservögel",
-    "distractors": [
-      "Zwergtaucher",
-      "Haubentaucher",
-      "Bläßhuhn"
-    ],
     "wikiUrl": "https://de.wikipedia.org/wiki/Lachm%C3%B6we"
   },
   {
@@ -1756,11 +1131,6 @@
     "gender": "m",
     "genderText": "männlich",
     "category": "Entenvögel",
-    "distractors": [
-      "Mittelsäger",
-      "Gänsesäger",
-      "Gans"
-    ],
     "wikiUrl": "https://de.wikipedia.org/wiki/L%C3%B6ffelente"
   },
   {
@@ -1770,11 +1140,6 @@
     "gender": "w",
     "genderText": "weiblich",
     "category": "Entenvögel",
-    "distractors": [
-      "Gänsesäger",
-      "Mittelsäger",
-      "Knäckente"
-    ],
     "wikiUrl": "https://de.wikipedia.org/wiki/L%C3%B6ffelente"
   },
   {
@@ -1784,11 +1149,6 @@
     "gender": "m",
     "genderText": "männlich",
     "category": "Entenvögel",
-    "distractors": [
-      "Brandgans",
-      "Gans",
-      "Stockenten"
-    ],
     "wikiUrl": "https://de.wikipedia.org/wiki/Mittels%C3%A4ger"
   },
   {
@@ -1798,11 +1158,6 @@
     "gender": null,
     "genderText": null,
     "category": "Greifvögel",
-    "distractors": [
-      "Turmfalke",
-      "Steinadler",
-      "Rohrweihe"
-    ],
     "wikiUrl": "https://de.wikipedia.org/wiki/M%C3%A4usebussard"
   },
   {
@@ -1812,11 +1167,6 @@
     "gender": null,
     "genderText": null,
     "category": "Rabenvögel",
-    "distractors": [
-      "Tannenhäher",
-      "Rabenkrähe",
-      "Eichelhäher"
-    ],
     "wikiUrl": "https://de.wikipedia.org/wiki/Nebelkr%C3%A4he"
   },
   {
@@ -1826,11 +1176,6 @@
     "gender": "m",
     "genderText": "männlich",
     "category": "Entenvögel",
-    "distractors": [
-      "Stockenten",
-      "Zwergsäger",
-      "Krickente"
-    ],
     "wikiUrl": "https://de.wikipedia.org/wiki/Pfeifente"
   },
   {
@@ -1840,11 +1185,6 @@
     "gender": "w",
     "genderText": "weiblich",
     "category": "Entenvögel",
-    "distractors": [
-      "Zwergsäger",
-      "Tafelente",
-      "Mittelsäger"
-    ],
     "wikiUrl": "https://de.wikipedia.org/wiki/Pfeifente"
   },
   {
@@ -1854,11 +1194,6 @@
     "gender": null,
     "genderText": null,
     "category": "Rabenvögel",
-    "distractors": [
-      "Tannenhäher",
-      "Saatkrähe",
-      "Dohle"
-    ],
     "wikiUrl": "https://de.wikipedia.org/wiki/Rabenkr%C3%A4he"
   },
   {
@@ -1868,11 +1203,6 @@
     "gender": null,
     "genderText": null,
     "category": "Greifvögel",
-    "distractors": [
-      "Rotmilan",
-      "Sperber",
-      "Schwarzmilan"
-    ],
     "wikiUrl": "https://de.wikipedia.org/wiki/Raufu%C3%9Fbussard"
   },
   {
@@ -1882,11 +1212,6 @@
     "gender": null,
     "genderText": null,
     "category": "Hühnervögel",
-    "distractors": [
-      "Auerhahn",
-      "Haselhuhn",
-      "Birkhahn"
-    ],
     "wikiUrl": "https://de.wikipedia.org/wiki/Rebhuhn"
   },
   {
@@ -1896,11 +1221,6 @@
     "gender": "m",
     "genderText": "männlich",
     "category": "Entenvögel",
-    "distractors": [
-      "Krickente",
-      "Gans",
-      "Tafelente"
-    ],
     "wikiUrl": "https://de.wikipedia.org/wiki/Reiherente"
   },
   {
@@ -1910,11 +1230,6 @@
     "gender": null,
     "genderText": null,
     "category": "Tauben",
-    "distractors": [
-      "Hohltaube",
-      "Turteltaube",
-      "Türkentaube"
-    ],
     "wikiUrl": "https://de.wikipedia.org/wiki/Ringeltaube"
   },
   {
@@ -1924,11 +1239,6 @@
     "gender": null,
     "genderText": null,
     "category": "Greifvögel",
-    "distractors": [
-      "Turmfalke",
-      "Rotmilan",
-      "Habicht"
-    ],
     "wikiUrl": "https://de.wikipedia.org/wiki/Rohrweihe"
   },
   {
@@ -1938,11 +1248,6 @@
     "gender": null,
     "genderText": null,
     "category": "Greifvögel",
-    "distractors": [
-      "Habicht",
-      "Wanderfalke",
-      "Rohrweihe"
-    ],
     "wikiUrl": "https://de.wikipedia.org/wiki/Rotmilan"
   },
   {
@@ -1952,11 +1257,6 @@
     "gender": null,
     "genderText": null,
     "category": "Hühnervögel",
-    "distractors": [
-      "Haselhuhn",
-      "Rebhuhn",
-      "Steinhuhn"
-    ],
     "wikiUrl": "https://de.wikipedia.org/wiki/Schneehuhn"
   },
   {
@@ -1966,11 +1266,6 @@
     "gender": null,
     "genderText": null,
     "category": "Greifvögel",
-    "distractors": [
-      "Baumfalke",
-      "Wanderfalke",
-      "Habicht"
-    ],
     "wikiUrl": "https://de.wikipedia.org/wiki/Schwarzmilan"
   },
   {
@@ -1980,11 +1275,6 @@
     "gender": "m",
     "genderText": "männlich",
     "category": "Greifvögel",
-    "distractors": [
-      "Baumfalke",
-      "Mäusebussard",
-      "Steinadler"
-    ],
     "wikiUrl": "https://de.wikipedia.org/wiki/Sperber"
   },
   {
@@ -1994,11 +1284,6 @@
     "gender": "m",
     "genderText": "männlich",
     "category": "Greifvögel",
-    "distractors": [
-      "Habicht juv",
-      "Turmfalke",
-      "Rotmilan"
-    ],
     "wikiUrl": "https://de.wikipedia.org/wiki/Sperber"
   },
   {
@@ -2008,11 +1293,6 @@
     "gender": "w",
     "genderText": "weiblich",
     "category": "Greifvögel",
-    "distractors": [
-      "Habicht juv",
-      "Rotmilan",
-      "Mäusebussard"
-    ],
     "wikiUrl": "https://de.wikipedia.org/wiki/Sperber"
   },
   {
@@ -2022,11 +1302,6 @@
     "gender": null,
     "genderText": null,
     "category": "Greifvögel",
-    "distractors": [
-      "Habicht",
-      "Raufußbussard",
-      "Rotmilan"
-    ],
     "wikiUrl": "https://de.wikipedia.org/wiki/Steinadler"
   },
   {
@@ -2036,11 +1311,6 @@
     "gender": null,
     "genderText": null,
     "category": "Entenvögel",
-    "distractors": [
-      "Reiherente",
-      "Krickente",
-      "Zwergsäger"
-    ],
     "wikiUrl": "https://de.wikipedia.org/wiki/Stockenten"
   },
   {
@@ -2050,11 +1320,6 @@
     "gender": null,
     "genderText": null,
     "category": "Greifvögel",
-    "distractors": [
-      "Raufußbussard",
-      "Baumfalke",
-      "Habicht juv"
-    ],
     "wikiUrl": "https://de.wikipedia.org/wiki/Turmfalke"
   },
   {
@@ -2064,11 +1329,6 @@
     "gender": null,
     "genderText": null,
     "category": "Tauben",
-    "distractors": [
-      "Hohltaube",
-      "Ringeltaube",
-      "Türkentaube"
-    ],
     "wikiUrl": "https://de.wikipedia.org/wiki/Turteltaube"
   },
   {
@@ -2078,11 +1338,6 @@
     "gender": null,
     "genderText": null,
     "category": "Tauben",
-    "distractors": [
-      "Ringeltaube",
-      "Hohltaube",
-      "Turteltaube"
-    ],
     "wikiUrl": "https://de.wikipedia.org/wiki/T%C3%BCrkentaube"
   },
   {
@@ -2092,11 +1347,6 @@
     "gender": null,
     "genderText": null,
     "category": "Tauben",
-    "distractors": [
-      "Hohltaube",
-      "Turteltaube",
-      "Ringeltaube"
-    ],
     "wikiUrl": "https://de.wikipedia.org/wiki/T%C3%BCrkentaube"
   },
   {
@@ -2106,11 +1356,6 @@
     "gender": null,
     "genderText": null,
     "category": "Hühnervögel",
-    "distractors": [
-      "Auerhahn",
-      "Steinhuhn",
-      "Schneehuhn"
-    ],
     "wikiUrl": "https://de.wikipedia.org/wiki/Wachtel"
   },
   {
@@ -2120,11 +1365,6 @@
     "gender": null,
     "genderText": null,
     "category": "Watvögel",
-    "distractors": [
-      "Bekassine",
-      "Großer Brachvogel",
-      "Kiebitz"
-    ],
     "wikiUrl": "https://de.wikipedia.org/wiki/Waldschnepfe"
   },
   {
@@ -2134,11 +1374,6 @@
     "gender": null,
     "genderText": null,
     "category": "Greifvögel",
-    "distractors": [
-      "Mäusebussard",
-      "Sperber",
-      "Schwarzmilan"
-    ],
     "wikiUrl": "https://de.wikipedia.org/wiki/Wanderfalke"
   },
   {
@@ -2148,11 +1383,6 @@
     "gender": null,
     "genderText": null,
     "category": "Entenvögel",
-    "distractors": [
-      "Krickente",
-      "Eiderente",
-      "Löffelente"
-    ],
     "wikiUrl": "https://de.wikipedia.org/wiki/Zwergs%C3%A4ger"
   },
   {
@@ -2162,11 +1392,6 @@
     "gender": null,
     "genderText": null,
     "category": "Wasservögel",
-    "distractors": [
-      "Haubentaucher",
-      "Bläßhuhn",
-      "Lachmöwe"
-    ],
     "wikiUrl": "https://de.wikipedia.org/wiki/Zwergtaucher"
   },
   {
@@ -2176,11 +1401,6 @@
     "gender": null,
     "genderText": null,
     "category": "Nagetiere und Insektenfresser",
-    "distractors": [
-      "Bisam",
-      "Murmeltier",
-      "Maulwurf"
-    ],
     "wikiUrl": "https://de.wikipedia.org/wiki/Biber"
   },
   {
@@ -2190,11 +1410,6 @@
     "gender": null,
     "genderText": null,
     "category": "Nagetiere und Insektenfresser",
-    "distractors": [
-      "Biber",
-      "Eichhörnchen",
-      "Maulwurf"
-    ],
     "wikiUrl": "https://de.wikipedia.org/wiki/Bisam"
   },
   {
@@ -2204,11 +1419,6 @@
     "gender": null,
     "genderText": null,
     "category": "Nagetiere und Insektenfresser",
-    "distractors": [
-      "Eichhörnchen",
-      "Murmeltier",
-      "Biber"
-    ],
     "wikiUrl": "https://de.wikipedia.org/wiki/Maulwurf"
   },
   {
@@ -2218,11 +1428,6 @@
     "gender": null,
     "genderText": null,
     "category": "Hasenartige",
-    "distractors": [
-      "Wacholderdrossel",
-      "Kiebitz",
-      "Maulwurf"
-    ],
     "wikiUrl": "https://de.wikipedia.org/wiki/Schneehase"
   },
   {
@@ -2232,11 +1437,6 @@
     "gender": null,
     "genderText": null,
     "category": "Nagetiere und Insektenfresser",
-    "distractors": [
-      "Eichhörnchen",
-      "Maulwurf",
-      "Bisam"
-    ],
     "wikiUrl": "https://de.wikipedia.org/wiki/Siebenschl%C3%A4fer"
   },
   {
@@ -2246,11 +1446,6 @@
     "gender": null,
     "genderText": null,
     "category": "Nagetiere und Insektenfresser",
-    "distractors": [
-      "Biber",
-      "Eichhörnchen",
-      "Murmeltier"
-    ],
     "wikiUrl": "https://de.wikipedia.org/wiki/Spitzmaus"
   },
   {
@@ -2260,11 +1455,6 @@
     "gender": null,
     "genderText": null,
     "category": "Singvögel",
-    "distractors": [
-      "Wasseramsel",
-      "Neuntöter",
-      "Wacholderdrossel"
-    ],
     "wikiUrl": "https://de.wikipedia.org/wiki/Eisvogel"
   },
   {
@@ -2274,11 +1464,6 @@
     "gender": null,
     "genderText": null,
     "category": "Singvögel",
-    "distractors": [
-      "Fichtenkreuzschnabel",
-      "Fichtenkreusschnabel",
-      "Wiedehopf"
-    ],
     "wikiUrl": "https://de.wikipedia.org/wiki/Amsel"
   },
   {
@@ -2288,11 +1473,6 @@
     "gender": null,
     "genderText": null,
     "category": "Singvögel",
-    "distractors": [
-      "Drossel",
-      "Star",
-      "Singdrossel"
-    ],
     "wikiUrl": "https://de.wikipedia.org/wiki/Bachstelze"
   },
   {
@@ -2302,11 +1482,6 @@
     "gender": null,
     "genderText": null,
     "category": "Watvögel",
-    "distractors": [
-      "Kiebitz",
-      "Waldschnepfe",
-      "Großer Brachvogel"
-    ],
     "wikiUrl": "https://de.wikipedia.org/wiki/Bekassine"
   },
   {
@@ -2316,11 +1491,6 @@
     "gender": null,
     "genderText": null,
     "category": "Spechte",
-    "distractors": [
-      "Grauspecht",
-      "Grünspecht",
-      "Schwarzspecht"
-    ],
     "wikiUrl": "https://de.wikipedia.org/wiki/Buntspecht"
   },
   {
@@ -2330,11 +1500,6 @@
     "gender": null,
     "genderText": null,
     "category": "Rabenvögel",
-    "distractors": [
-      "Elster",
-      "Rabenkrähe",
-      "Nebelkrähe"
-    ],
     "wikiUrl": "https://de.wikipedia.org/wiki/Dohle"
   },
   {
@@ -2344,11 +1509,6 @@
     "gender": null,
     "genderText": null,
     "category": "Singvögel",
-    "distractors": [
-      "Pirol",
-      "Amsel",
-      "Raubwürger"
-    ],
     "wikiUrl": "https://de.wikipedia.org/wiki/Drossel"
   },
   {
@@ -2358,11 +1518,6 @@
     "gender": null,
     "genderText": null,
     "category": "Singvögel",
-    "distractors": [
-      "Raubwürger",
-      "Wasseramsel",
-      "Amsel"
-    ],
     "wikiUrl": "https://de.wikipedia.org/wiki/Fichtenkreusschnabel"
   },
   {
@@ -2372,11 +1527,6 @@
     "gender": null,
     "genderText": null,
     "category": "Singvögel",
-    "distractors": [
-      "Fichtenkreusschnabel",
-      "Pirol",
-      "Wacholderdrossel"
-    ],
     "wikiUrl": "https://de.wikipedia.org/wiki/Fichtenkreuzschnabel"
   },
   {
@@ -2386,11 +1536,6 @@
     "gender": null,
     "genderText": null,
     "category": "Watvögel",
-    "distractors": [
-      "Kiebitz",
-      "Bekassine",
-      "Waldschnepfe"
-    ],
     "wikiUrl": "https://de.wikipedia.org/wiki/Gro%C3%9Fer_Brachvogel"
   },
   {
@@ -2400,11 +1545,6 @@
     "gender": null,
     "genderText": null,
     "category": "Spechte",
-    "distractors": [
-      "Grauspecht",
-      "Buntspecht",
-      "Schwarzspecht"
-    ],
     "wikiUrl": "https://de.wikipedia.org/wiki/Gr%C3%BCnspecht"
   },
   {
@@ -2414,11 +1554,6 @@
     "gender": null,
     "genderText": null,
     "category": "Watvögel",
-    "distractors": [
-      "Großer Brachvogel",
-      "Bekassine",
-      "Waldschnepfe"
-    ],
     "wikiUrl": "https://de.wikipedia.org/wiki/Kiebitz"
   },
   {
@@ -2428,11 +1563,6 @@
     "gender": null,
     "genderText": null,
     "category": "Singvögel",
-    "distractors": [
-      "Bachstelze",
-      "Amsel",
-      "Singdrossel"
-    ],
     "wikiUrl": "https://de.wikipedia.org/wiki/Kuckuck"
   },
   {
@@ -2442,11 +1572,6 @@
     "gender": null,
     "genderText": null,
     "category": "Singvögel",
-    "distractors": [
-      "Drossel",
-      "Wacholderdrossel",
-      "Fichtenkreuzschnabel"
-    ],
     "wikiUrl": "https://de.wikipedia.org/wiki/Kuckuck"
   },
   {
@@ -2456,11 +1581,6 @@
     "gender": null,
     "genderText": null,
     "category": "Singvögel",
-    "distractors": [
-      "Bachstelze",
-      "Fichtenkreuzschnabel",
-      "Singdrossel"
-    ],
     "wikiUrl": "https://de.wikipedia.org/wiki/Neunt%C3%B6ter"
   },
   {
@@ -2470,11 +1590,6 @@
     "gender": null,
     "genderText": null,
     "category": "Singvögel",
-    "distractors": [
-      "Pirol",
-      "Wasseramsel",
-      "Amsel"
-    ],
     "wikiUrl": "https://de.wikipedia.org/wiki/Raubw%C3%BCrger"
   },
   {
@@ -2484,11 +1599,6 @@
     "gender": null,
     "genderText": null,
     "category": "Rabenvögel",
-    "distractors": [
-      "Tannenhäher",
-      "Eichelhäher",
-      "Nebelkrähe"
-    ],
     "wikiUrl": "https://de.wikipedia.org/wiki/Saatkr%C3%A4he"
   },
   {
@@ -2498,11 +1608,6 @@
     "gender": null,
     "genderText": null,
     "category": "Eulen",
-    "distractors": [
-      "Waldkauz",
-      "Uhu",
-      "Steinkauz"
-    ],
     "wikiUrl": "https://de.wikipedia.org/wiki/Schleiereule"
   },
   {
@@ -2512,11 +1617,6 @@
     "gender": null,
     "genderText": null,
     "category": "Singvögel",
-    "distractors": [
-      "Kuckuck",
-      "Fichtenkreusschnabel",
-      "Neuntöter"
-    ],
     "wikiUrl": "https://de.wikipedia.org/wiki/Star"
   },
   {
@@ -2526,11 +1626,6 @@
     "gender": null,
     "genderText": null,
     "category": "Hühnervögel",
-    "distractors": [
-      "Birkhahn",
-      "Wachtel",
-      "Fasan"
-    ],
     "wikiUrl": "https://de.wikipedia.org/wiki/Steinhuhn"
   },
   {
@@ -2540,11 +1635,6 @@
     "gender": null,
     "genderText": null,
     "category": "Eulen",
-    "distractors": [
-      "Sumpfohreule",
-      "Schleiereule",
-      "Uhu"
-    ],
     "wikiUrl": "https://de.wikipedia.org/wiki/Steinkauz"
   },
   {
@@ -2554,11 +1644,6 @@
     "gender": null,
     "genderText": null,
     "category": "Eulen",
-    "distractors": [
-      "Schleiereule",
-      "Waldohreule",
-      "Steinkauz"
-    ],
     "wikiUrl": "https://de.wikipedia.org/wiki/Sumpfohreule"
   },
   {
@@ -2568,11 +1653,6 @@
     "gender": null,
     "genderText": null,
     "category": "Rabenvögel",
-    "distractors": [
-      "Dohle",
-      "Saatkrähe",
-      "Nebelkrähe"
-    ],
     "wikiUrl": "https://de.wikipedia.org/wiki/Tannenh%C3%A4her"
   },
   {
@@ -2582,11 +1662,6 @@
     "gender": null,
     "genderText": null,
     "category": "Singvögel",
-    "distractors": [
-      "Neuntöter",
-      "Kuckuck",
-      "Wasseramsel"
-    ],
     "wikiUrl": "https://de.wikipedia.org/wiki/Wacholderdrossel"
   },
   {
@@ -2596,11 +1671,6 @@
     "gender": null,
     "genderText": null,
     "category": "Eulen",
-    "distractors": [
-      "Ziegenmelker",
-      "Waldohreule",
-      "Steinkauz"
-    ],
     "wikiUrl": "https://de.wikipedia.org/wiki/Waldkauz"
   },
   {
@@ -2610,11 +1680,6 @@
     "gender": null,
     "genderText": null,
     "category": "Eulen",
-    "distractors": [
-      "Waldkauz",
-      "Steinkauz",
-      "Schleiereule"
-    ],
     "wikiUrl": "https://de.wikipedia.org/wiki/Waldohreule"
   },
   {
@@ -2624,11 +1689,6 @@
     "gender": null,
     "genderText": null,
     "category": "Eulen",
-    "distractors": [
-      "Steinkauz",
-      "Schleiereule",
-      "Ziegenmelker"
-    ],
     "wikiUrl": "https://de.wikipedia.org/wiki/Waldohreule"
   },
   {
@@ -2638,11 +1698,6 @@
     "gender": null,
     "genderText": null,
     "category": "Singvögel",
-    "distractors": [
-      "Pirol",
-      "Wiedehopf",
-      "Wacholderdrossel"
-    ],
     "wikiUrl": "https://de.wikipedia.org/wiki/Wasseramsel"
   },
   {
@@ -2652,11 +1707,6 @@
     "gender": null,
     "genderText": null,
     "category": "Singvögel",
-    "distractors": [
-      "Neuntöter",
-      "Fichtenkreusschnabel",
-      "Drossel"
-    ],
     "wikiUrl": "https://de.wikipedia.org/wiki/Wiedehopf"
   }
 ]

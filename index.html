@@ -159,6 +159,14 @@
   const res = await fetch('data.json');
   const allData = await res.json();
 
+  // Build category -> species name map for runtime distractor selection
+  const categoryToNames = {};
+  for (const entry of allData) {
+    if (!categoryToNames[entry.category]) categoryToNames[entry.category] = new Set();
+    categoryToNames[entry.category].add(entry.name);
+  }
+  const allNames = [...new Set(allData.map(d => d.name))];
+
   const locationSelect = document.getElementById('locationSelect');
   const modeQuiz = document.getElementById('modeQuiz');
   const modeFlash = document.getElementById('modeFlash');
@@ -190,8 +198,14 @@
     return a;
   }
 
-  function uniqueNames() {
-    return [...new Set(filtered.map(d => d.name))];
+  function getDistractors(entry) {
+    const sameCategory = [...(categoryToNames[entry.category] || [])].filter(n => n !== entry.name);
+    let pool = shuffle(sameCategory);
+    if (pool.length < 3) {
+      const extras = shuffle(allNames.filter(n => n !== entry.name && !sameCategory.includes(n)));
+      pool = [...pool, ...extras];
+    }
+    return pool.slice(0, 3);
   }
 
   function pickRandom() {
@@ -221,7 +235,7 @@
   function showQuiz() {
     current = pickRandom();
     cardImg.src = current.path;
-    const wrongs = current.distractors || shuffle(uniqueNames().filter(n => n !== current.name)).slice(0, 3);
+    const wrongs = getDistractors(current);
     const choices = shuffle([current.name, ...wrongs]);
 
     cardBody.innerHTML = '';

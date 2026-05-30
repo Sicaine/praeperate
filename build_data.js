@@ -148,34 +148,6 @@ function extractGender(cleanedName) {
 }
 
 // ---------------------------------------------------------------------------
-// Distractor generation
-// ---------------------------------------------------------------------------
-function shuffle(arr) {
-  const a = [...arr];
-  for (let i = a.length - 1; i > 0; i--) {
-    const j = Math.floor(Math.random() * (i + 1));
-    [a[i], a[j]] = [a[j], a[i]];
-  }
-  return a;
-}
-
-function getDistractors(species, allSpecies) {
-  const category = nameToCategory[species];
-  let pool = [];
-
-  if (category) {
-    pool = CATEGORIES[category].filter(n => n !== species && allSpecies.has(n));
-  }
-
-  if (pool.length < 3) {
-    const extras = [...allSpecies].filter(n => n !== species && !pool.includes(n));
-    pool = pool.concat(shuffle(extras));
-  }
-
-  return shuffle(pool).slice(0, 3);
-}
-
-// ---------------------------------------------------------------------------
 // Build data.json
 // ---------------------------------------------------------------------------
 function buildData() {
@@ -207,18 +179,16 @@ function buildData() {
     }
   }
 
-  const allSpecies = new Set(entries.map(e => e.name));
-
-  // Second pass: assign category + distractors
+  // Second pass: assign category
   const data = entries.map((entry) => {
     const category = nameToCategory[entry.name] || 'Sonstige';
-    const distractors = getDistractors(entry.name, allSpecies);
     const wikiUrl = 'https://de.wikipedia.org/wiki/' + encodeURIComponent(entry.name.replace(/ /g, '_'));
-    return { ...entry, category, distractors, wikiUrl };
+    return { ...entry, category, wikiUrl };
   });
 
   fs.writeFileSync(OUTPUT, JSON.stringify(data, null, 2), 'utf-8');
 
+  const allSpecies = new Set(data.map(e => e.name));
   const uncategorized = [...allSpecies].filter(n => !nameToCategory[n]).sort();
   if (uncategorized.length > 0) {
     console.warn('Uncategorized animals:', uncategorized.join(', '));
